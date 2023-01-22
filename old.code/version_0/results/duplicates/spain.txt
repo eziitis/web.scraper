@@ -1,0 +1,8 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1020234;DIS-ELECTRIC, S.A.;4;;jordi.vila@diselectric.com;;www.se.com;CAMP DE LES LLOSES, 3;17005;GIRONA;Girona;Spain;
+1020376;GRUPO ELECTRO STOCKS, S.L.;4;;jordi.jordan@grupoelectrostocks.com;;www.se.com;RECASENS I MERCADE, 67- AGRO REUS;43206;REUS;Tarragona;Spain;
+1020378;GRUPO ELECTRO STOCKS, S.L.;4;;valerio.rodriguez@grupoelectrostocks.com;;www.se.com;SIERRA DE LA ALMENARA, Nave 4-5;30800;LORCA;Murcia;Spain;
+1020435;Grupo Sesaelec - Alecas;4;;amarti@sesaelec.com;;www.se.com;Cami Pi Gros, 52;12005;Castellón;Castellon;Spain;
+1020787;SUMIN.ELEC.ERKA, S.L.;4;943345000;;;www.se.com;POLIGONO TXIRRITA MALEO4;20100;RENTERIA;Guipuzcoa;Spain;
+999568;Accionaments I Automatismes G6, S.L.;4;+34938405545;;www.factorpotencia.com;www.abb.com;Avenida Sant Julia 204;08403;Granollers;Barcelona;spain;
+1001906;Rexel Spain, S.L.;4;+34943345000;txirrita@rexel.es;www.rexel.es;www.abb.com;Pgno.Txirrita Maleo, 4;20100;Errenteria;Gipuzkoa;spain;

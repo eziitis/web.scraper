@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002589;LEGRAND SNC;4;+375 17 205 04 78 / 79;;www.legrand.ru;www.legrand.com;Domashevskiy per., 9, office 4;;220036 Minsk;;Russia;
+1002611;Cablofil;4;;;www.cablofil.ru;www.legrand.com;40/12, Nizhnyaya Krasnosel'skaya str., 2 bld., 3rd floor, Business Center “Nov”;;105066 Moscou;;Russia;
+1002612;Estap;4;;;www.estap.ru;www.legrand.com;40/12, Nizhnyaya Krasnosel'skaya str., 2 bld., 3rd floor, Business Center “Nov”;;105066 Moscou;;Russia;
+1002613;Kontaktor;4;;;www.kontaktor.ru;www.legrand.com;40/12, Nizhnyaya Krasnosel'skaya str., 2 bld., 3rd floor, Business Center “Nov”;;105066 Moscou;;Russia;

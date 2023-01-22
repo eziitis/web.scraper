@@ -1,0 +1,7 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999840;Hydrotek Engineering Company;4;+9651808555;info@hydrotek.com;www.hydrotek.com;www.abb.com;Ghazali Street Opp: Centre Point Shuwaikh, Al Rai;13023;Kuwait City;Al Asimah;Kuwait;
+1000194;Al Nisf Electrical Co WLL;4;+9651822233;snec-sales@alnisfgroup.com.kw;www.alnisf.com;www.abb.com;Street 22 Al Rai Industrial Area 1;13048;Safat;Al Ahmadi;Kuwait;
+1000214;Almeer Industry For Control;4;+96524571395;factory@almeer.com.kw;www.almeerindustries.com/;www.abb.com;No. 140-150 Amghara Industrial Area;61003;Ahmadi;Al Ahmadi;Kuwait;
+1000287;Bader Al Mulla Bros Co. W.L.L.;4;+96522205222;lights@almullagroup.com;www.almullagroup.com;www.abb.com;Al Mulla Engineering Group, P;13002;Safat;Al Asimah;Kuwait;
+1000300;Behbehani Projects General Trading Co.;4;+96524915172;info@behbehaniprojects.com;www.behbehaniprojects.com;www.abb.com;Block B Street 18 Building 155, off zeena street? Shuwaikh Industrial;13001;Kuwait City;Al Asimah;Kuwait;
+1001206;Hydrotek Engineering Co;4;+9651808555;info@hydrotek.com;www.hydrotek.com;www.abb.com;Al Rai Area - At The Junction Of Ghazally Street & Street 22;13023;Kuwait City;Al Asimah;Kuwait;

@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002607;Legrand Albanie;4;+355 4 4504088;info.albania@legrand.com;www.bticino.al;www.legrand.com;Representative office - Pjeter Budi Str. "Rogert" Building;;1st Floor, Locale 12 Tirana;;Albania;

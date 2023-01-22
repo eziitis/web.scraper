@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1001407;Mobius Engineering Sociedad Anonima;4;+50575177200;info@mobius-engineering.com;www.mobius-engineering.com;www.abb.com;Colonial Los Robles, Uno Plaza El Sol 2c al Sur, 2c Al Este, 1/2 al Sur. Managua;---;Managua;Nicaragua;nicaragua;

@@ -1,0 +1,13 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1012794;Latina;4;;;www.kzlatina.kz;www.se.com;pr.Abaya, 143/93;;Алматы;Almaty;Kazakhstan;
+1012803;Secure Inform;4;;;;www.se.com;Bogenbay Batyr 28/46;010000;Astana;Astana;Kazakhstan;
+1012809;TOO "Inkom Kazakhstan";4;;;;www.se.com;165B Shevchenko str.;050009;Almaty;Almaty;Kazakhstan;
+1012810;ALG Innovations;4;;;;www.se.com;5B Imanbayeva Str, 6 floor, office 16;010000;Astana;Astana;Kazakhstan;
+1012811;TOO "MAGNAT Grupp";4;;;www.magnatgroup.kz;www.se.com;ul.Klochkova 156, 27;050057;Almaty;Almaty;Kazakhstan;
+1012816;ZP International;4;;;;www.se.com;Satpayeva avenue 28V;060011;Atyrau;;Kazakhstan;
+1012821;ALSI - Astana;4;;;;www.se.com;St Saryarka, 26;10000;Astana;Astana;Kazakhstan;
+1012831;ООО "ИНЖСЕРВИКО";4;;;;www.se.com;пр. Абая, 52Б;050008;Алматы;;Kazakhstan;
+1012832;ALSI Service LLP;4;;;;www.se.com;245 Mukanova Street;50022;Almaty;Almaty;Kazakhstan;
+1012837;ТОО "Asia Engineering Group";4;;;www.asiaengineeringgroup.com;www.se.com;Ул. Кабдолова 8;E01Y3Y7;Атырау;Atyrau;Kazakhstan;
+1012840;ТОО "Iron Shell";4;;;;www.se.com;ул. А.Бокейхан, 38, ВП 5;020000;Нур-Султан;;Kazakhstan;
+1012869;ТОО «COMPUTER SERVICES LTD»;4;;;www.cs.kz;www.se.com;ул. Кожамкулова 159;;Алматы;Almaty;Kazakhstan;

@@ -1,0 +1,8 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1003111;Auslec Welshpool;4;;;www.auslec.com.au;www.se.com;137 Pilbara St;6106;Welshpool;Western Australia;Australia;
+1003177;AWM Electrical Bendigo;4;;;awmbendigo.com.au;www.se.com;1 Adam St;3551;Bendigo;Victoria;Australia;
+1003217;Mining & Industrial Wholesalers;4;;;;www.se.com;U-1 50 Discovery Dr;6163;Bibra Lake;Western Australia;Australia;
+1003227;MM Electrical Maroochydore;4;;;mmmaroochydore.com.au;www.se.com;2/10 Newspaper Pl;4558;Maroochydore;Queensland;Australia;
+1003305;Blackwoods Macquarie Park;4;;;www.blackwoods.com.au;www.se.com;L3 12-24 Talavera Rd;2113;Macquarie Park;New South Wales;Australia;
+1003345;CNW Electrical Kunda Park;4;;;;www.se.com;33 Kerryl St;4556;Kunda Park;Queensland;Australia;
+1003354;CNW Electrical Port Hedland;4;;;;www.se.com;9 Altitude Ave;6722;Port Hedland;Western Australia;Australia;

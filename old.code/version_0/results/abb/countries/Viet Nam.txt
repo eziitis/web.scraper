@@ -1,0 +1,9 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999625;Asia Trading and Engineering Co Ltd;4;+842432484095;nguyentronghien@asitec.com.vn;www.asitec.com.vn;www.abb.com;No.2/45 Nguyen Hong, Dong Da;100000;Ha Noi;Ha Noi;Viet Nam;
+999698;Cong ty Co Phan Cong Nghe va Giai Phap S5T Viet Nam;4;;;www.s5t.com.vn;www.abb.com;Phong 404 B4, tap the Thanh Xuan Bac, Phuong Thanh Xuan Bac;109990;Hanoi;Ha Noi;Viet Nam;
+999699;Cong ty TNHH Tu Dong Hoa va Thiet Bi Giao Duc Dong Duong;4;+439726712;atedongduong@gmail.com;dongduongate.com.vn;www.abb.com;B34 Lo 6, KDT Dinh Cong, Phuong Dinh Cong, Quan Hoang Mai;100000;Ha Noi;Ha Noi;Viet Nam;
+999910;Le Gia High Technology JSC;4;;;www.levn.vn;www.abb.com;90/2 Phan Huy Ich Street, Ward 14, Go Vap District;700000;Ho Chi Minh City;TP. Ho Chi Minh;Viet Nam;
+1000052;Sai Gon Ban Mai Commercial Co Ltd;4;;;saigonbanmai.com.vn;www.abb.com;P2502 101 Lang Ha Dong Da;100000;Hanoi;Ha Noi;Viet Nam;
+1000091;Song Nhat Service Trading Co Ltd;4;;;songnhat.com.vn;www.abb.com;No. 80, Street 1, Cityland (Park Hill), Ward 10, Go Vap District;700000;Ho Chi Minh;TP. Ho Chi Minh;Viet Nam;
+1000113;Systems Established Technology Equipment Joint Stock Company;4;+02466754466;info@systemcorp.vn;;www.abb.com;293 Tran Dang Ninh Str., Dich Vong ward, Cau Giay Dist.;010000;Ha Noi;Ha Noi;Viet Nam;
+1000146;Vinh Thanh Lead Away Equipment Co Ltd;4;;;www.vtmc.com.vn;www.abb.com;45 Tan Hoa Hamlet, Tan Hiep Village, Hoc Mon District;700000;Ho Chi Minh City;TP. Ho Chi Minh;Viet Nam;

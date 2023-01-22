@@ -1,0 +1,18 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002564;LEGRAND;4;+1 877 295 3472;;www.legrand.us;www.legrand.com;60 Woodlawn Street;;CT 06110 West Hartford;;United States;
+1002565;BTicino U.S. Corporate;4;+1 886 884 5983;;www.bticino.us;www.legrand.com;2800 De La Cruz Blvd;;CA 95050 Santa Clara;;United States;
+1002566;Cablofil;4;+1 618 566 3244;;www.legrand.us;www.legrand.com;8319 state Route 4.;;62258 ILLINOIS;;United States;
+1002567;Electrorack;4;+1 714-776-5420;;www.electrorack.com;www.legrand.com;1443 South Sunkist Street;;CA 92806 Anaheim;;United States;
+1002568;Lastar Inc.;4;+1 937.224.0639;;www.lastar.com;www.legrand.com;3555 Kettering Blvd.;;OH 45439 Moraine;;United States;
+1002569;Luxul;4;+1 801 822 5450;;www.luxul.com;www.legrand.com;14203 Minuteman Drive, Suite 201;;UT 84020-7211 Draper;;United States;
+1002570;Middle Atlantic;4;+1 (973) 839-1011;;www.middleatlantic.com;www.legrand.com;T300 Fairfield Road;;NJ 07004 Fairfield;;United States;
+1002571;NuVo technologies;4;+1 866.796.4904;;www.nuvotechnologies.com;www.legrand.com;3015 Kustom Drive;;KY 41048 Hebron;;United States;
+1002572;On-Q;4;+1 717 702 2532;;www.legrand.us;www.legrand.com;301, Fulling Mill Road - Suite G;;PA 17057 Middletown;;United States;
+1002573;Ortronics / Legrand;4;+1.860 445 3800;;www.legrand.us;www.legrand.com;125 Eugene O’Neill Drive;;CT 06320 New London;;United States;
+1002574;Pass & seymour;4;+1 315 468 6211;;www.legrand.us;www.legrand.com;Pass & Seymour/Legrand – P.O. Box 4822;;NY 13221-4822 Syracuse;;United States;
+1002575;Pinnacle Architecture Lighting;4;+1 303.322.5570;;www.pinnacle-ltg.com;www.legrand.com;12655 E. 42nd Ave;;CO 80239 Denver;;United States;
+1002576;Qmotion;4;+1 877.849.6070;;www.qmotionshades.com;www.legrand.com;3400 Copter Road;;FL 32514 Pensacola;;United States;
+1002577;Raritan;4;+1 800 724 8090 / +1 732 764 8886;;www.raritan.com;www.legrand.com;400 Cottontail Lane;;NJ 08873 Someerset;;United States;
+1002578;Vantage;4;+1 801 229 2800;;www.vantagecontrols.com;www.legrand.com;1061 South 800 East;;UTAH 84097 Orem;;United States;
+1002579;Watt Stopper;4;+1.408 486 7501;;www.legrand.us;www.legrand.com;2800 De La Cruz Blvd.;;CA 95050 Santa Clara;;United States;
+1002580;Wiremold;4;+1 860.233.6251;;www.legrand.us;www.legrand.com;60 Woodlawn Street;;CT 06110 West Hartford;;United States;

@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000971;Electricite de l'avenir;4;+21671345405;rhssoumi@elecavenir.tn;www.elecavenir.tn;www.abb.com;Avenue Moncef bey 28;1000;Tunis;Tunis;Tunisia;
+1001999;SIAME;4;+21671255299;kais.helal@electrica.com.tn;www.siame.com.tn;www.abb.com;Rue des Mathematiques - Zone Industrielle;8030;Grombalia - Tunisie;Nabeul;Tunisia;
+1002044;Socoopec;4;+21670354400;info@socoopec.com.tn;www.socoopec-group.com/;www.abb.com;66 Avenue De Carthage;1000;Tunis;Tunis;Tunisia;

@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1012815;Winncom Technologies LLP;4;+7(727)3187517;site@winncom.com;https://www.winncom.kz/;www.se.com;20 «А» Kazybek-bi Str., Office 102, Arai Business Center;050010;Almaty;;Kazakhstan;
+1012848;ТОО "WEST OIL&GAS SYSTEMS";4;7(705)4545464;alexandr.sherstnev@ogs.kz;;www.se.com;ул. Демократическая, 7/1;090005;Уральск;;Kazakhstan;

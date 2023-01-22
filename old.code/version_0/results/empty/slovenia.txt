@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1019535;ACORD-92;4;;;;www.se.com;STEGNE 13;1000;LJUBLJANA;;Slovenia;
+1019541;Prinsis d.o.o.;4;;;;www.se.com;Peske 15;1236;Trzin;;Slovenia;
+1019542;Robotika Juvan d.o.o.;4;;;;www.se.com;Kašeljska cesta 120;1260;Ljubljana - Polje;Ljubljana-Moste-Polj;Slovenia;
+1019547;CMC Group d.o.o.;4;;;;www.se.com;IOC Zapolje I 10;1370;Logatec;;Slovenia;
+1019553;Imp Ten-Telekom d.o.o.;4;;;;www.se.com;Vojkova Cesta 58;1000;Ljubljana;;;

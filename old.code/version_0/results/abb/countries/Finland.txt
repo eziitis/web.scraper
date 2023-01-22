@@ -1,0 +1,16 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999593;Algol Technics Oy;4;+358950991;info.technics.fi@algol.fi;www.algoltechnics.fi;www.abb.com;Karapellontie 6;02610;Espoo;Uusimaa;Finland;
+999621;Arnon Oy;4;+358105265000;sales@arnon.fi;www.arnon.fi;www.abb.com;Kaapelikatu 3;33330;Tampere;Pirkanmaa;Finland;
+999632;Auser Oy;4;;myynti.auser@auser.fi;www.auser.fi;www.abb.com;Jylpyntie 35;48230;Kotka;Kymenlaakso;Finland;
+999693;Co-Engineering Oy;4;;;www.co-engineering.fi;www.abb.com;Vasaratie 19;65350;Vaasa;Ostrobothnia;Finland;
+999793;Flexmill Oy;4;+358400320755;support@flexmill.fi;www.flexmill.fi;www.abb.com;Ilveskaari 19 B;01900;Nurmijarvi;Uusimaa;Finland;
+999879;Iss Palvelut Oy;4;;;www.iss.fi;www.abb.com;Karvaamokuja 2 A;00380;Helsinki;Uusimaa;Finland;
+999887;Jucat Oy;4;+358103263300;info@jucat.fi;www.jucat.fi;www.abb.com;Puurtajankuja 3;60100;Seinajoki;South Ostrobothnia;Finland;
+999974;Oy Norcar-BSB Ab;4;+35867812800;automation@norcar.com;www.norcarautomation.com;www.abb.com;Tehtaankatu 7;66901;Uusikaarlepyy;Ostrobothnia;Finland;
+999989;Plc-Automation Oy;4;+35885313000;;www.plc.fi;www.abb.com;Konetie 32;90620;Oulu;North Ostrobothnia;Finland;
+1000032;Roboco Oy;4;+358405540258;roboco@roboco.fi;www.roboco.fi;www.abb.com;Museokatu 44 A;00100;Helsinki;Uusimaa;Finland;
+1000035;Robotech Oy;4;+358503294003;info@robotech.fi;www.robotech.fi;www.abb.com;Huurretie 9;33470;Ylojarvi;Pirkanmaa;Finland;
+1000043;Roxia Automation Oy;4;+358164590500;;www.polar-automaatio.fi;www.abb.com;Torniontie 4;94450;Keminmaa;Lapland;Finland;
+1000065;Sermatech Oy;4;+35825311900;info@sermatech.fi;www.sermatech.fi;www.abb.com;Peltotie 26;28400;Ulvila;Satakunta;Finland;
+1000087;Slo Oy Paakonttori;4;+3581028311;;www.slo.fi;www.abb.com;Ritakuja 2;01740;Vantaa;Uusimaa;Finland;
+1000131;Trimaster Oy;4;+35832607612;info@trimaster.fi;www.trimaster.fi;www.abb.com;Aurinkokuja 3;33420;Tampere;Pirkanmaa;Finland;

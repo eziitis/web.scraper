@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002584;Legrand Hong-Kong (China);4;852-2687 4200;;www.legrand.com.hk;www.legrand.com;9/F, Novel Industrial Building, 850 - 870 Lai Chi Kok Road, Cheung Sha Wan,;;Kowloon Hong Kong;;Hong-Kong;

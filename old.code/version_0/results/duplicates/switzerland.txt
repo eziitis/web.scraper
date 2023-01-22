@@ -1,0 +1,11 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1021350;reveb sàrl - Allopc;4;004127320202;info@allopc.ch;allopc.ch;www.se.com;Rue de Lausanne 116;1950;Sion;Valais;Switzerland;
+1021387;Balz Informatik AG;4;0344379000;sales@balz.ch;www.balz.ch;www.se.com;Spitalstrasse 2;3454;Sumiswald;Bern;Switzerland;
+1021414;ElectroLAN SA;4;;vente@electrolan.ch;www.electrolan.ch;www.se.com;Avenue de Longueville 17;2013;Colombier;;Switzerland;
+1021416;Electroplast SA;4;;info@epgsa.ch;shop.electroplast.ch/ishop/Home.html;www.se.com;Route des Jeunes 25;1227;Carouge;Geneva;Switzerland;
+1021422;Elektro Material AG;4;;em-be@elektro-material.ch;www.elektro-material.ch;www.se.com;Riedbachstrasse 165;3001;Bern;Bern;Switzerland;
+1021439;Global IT AG;4;+41448591010;verkauf@global-it.ch;;www.se.com;Zürcherstrasse 17;8173;Neerach;Zurich;Switzerland;
+1021444;Hälg & Co. AG;4;0041848203040;haelg@haelg.ch;www.haelg.ch;www.se.com;Lukasstrasse 30;9008;St. Gallen;St. Gallen;Switzerland;
+1021446;Hälg & Co. AG;4;0041848203040;haelg@haelg.ch;www.haelg.ch;www.se.com;Förrlibuckstrasse 66;8031;Zürich;;Switzerland;
+1021447;Hälg & Co. AG Basel;4;0041848203040;haelg@haelg.ch;www.haelg.ch;www.se.com;Hochbergerstraße 60c;4057;Basel;Basel Stadt;Switzerland;
+1002169;Sonepar Suisse AG - Wallisellen;4;+41448395711;verkauf_wa@w-f.ch;www.w-f.ch;www.abb.com;Hertistrasse 31;8304;Wallisellen;Zurich;switzerland;

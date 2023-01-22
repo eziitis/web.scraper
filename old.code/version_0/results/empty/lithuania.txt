@@ -1,0 +1,8 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1013099;Elektrokomplektas UAB;4;;;;www.se.com;Tinklu str. 29a-1;LT-35115;Panevezys;;Lithuania;
+1013100;Kesko senukai Lithuania UAB;4;;;;www.se.com;Pramones str. 6;LT-51500;Kaunas;;Lithuania;
+1013111;Literna, Vilnius-Eišiškių;4;;;;www.se.com;;LT-02184;Vilnius;;Lithuania;
+1013118;UAB EIMINGA;4;;;;www.se.com;Vydūno 15.Serapiniškio km.;LT-42341;Rokiskio raj.;;Lithuania;
+1013119;UAB KVG;4;;;;www.se.com;Taikos prospektas 17;91140;Klaipeda;;Lithuania;
+1013133;Onninen UAB Vilnius 2;4;;;;www.se.com;Laisvės prospektas Lazdynų seniūnija;03001;Vilnius;;Lithuania;
+1013146;VšI Megabitė;4;;;;www.se.com;Raudondvario pl. 168;47172;Kaunas;;Lithuania;

@@ -1,0 +1,11 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1012753;CSI Solutions Corp. - Nishinihon Office;4;;;;www.se.com;1-8-16 Kitahama;541-0041;Chuo-Ku Osaka-Shi;Osaka;Japan;
+1012754;Medical Engineering Institute, Inc. - Osaka Branch;4;;;;www.se.com;6-9-14 Uehonmachi Tennoji-ku;5430001;Osaka-shi;Osaka;Japan;
+1012756;Net One Systems Co., Ltd. - Head Office;4;;;https://www.netone.co.jp/contact.html;www.se.com;2-7-2 Marunouchi;100-7024;Chiyoda-ku;Tokyo;Japan;
+1012764;Doshisha University - Kyotanabe Campus;4;;;;www.se.com;1-3 Tataramiyakodani;610-0394;Kyotanabe-shi;Kyoto;Japan;
+1012767;三谷商事株式会社;4;;;;www.se.com;高田3丁目28番2号;171-0033;豊島区;Tokyo;Japan;
+1012768;兼松エレクトロニクス 株式会社;4;;;;www.se.com;京橋2-13-10;104-8338;中央区;Tokyo;Japan;
+1012769;大丸株式会社;4;;;;www.se.com;菊水３条１丁目;003-8504;札幌市白石区;Hokkaido;Japan;
+1012781;Fuji Xerox Kanagawa Co., Ltd. - Head Office;4;;;;www.se.com;6-1 Minato Mirai, Nishi-ku;220-8668;Yokohama-shi;Kanagawa;Japan;
+1012782;Gateway Computer Co., Ltd. - Tokyo Head Office;4;;;;www.se.com;1-1-16 Kanda Izumi-cho;101-0024;Chiyoda-ku;Tokyo;Japan;
+1012784;Inaba Denki Sangyo Co., Ltd. - Hiroshima office;4;;;;www.se.com;3-1 Kanayama-cho;730-0022;Naka-ku Hiroshima-shi;;Japan;

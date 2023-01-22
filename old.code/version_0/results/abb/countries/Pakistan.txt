@@ -1,0 +1,7 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000220;Ameejee Valleejee & Sons (Pvt) Ltd;4;+922122625492;avsltd@avs.com.pk;www.avs.com.pk;www.abb.com;Ameejee Chambers, Campbell Street;74200;Karachi;Sind;Pakistan;
+1000223;AMT Electric Pvt Ltd;4;+922518433392;contact@amt-electric.com;www.amt-electric.com;www.abb.com;Office No. 3201-2, NSTP-NUST, Sector H-12, Islamabad, 44000-Pakistan;44000;Islamabad;Islamabad;Pakistan;
+1001939;S.M. Jaffer & Co;4;+9221111765765;info@smjaffer.com;www.smjaffer.com;www.abb.com;Jaffer House 17, Timber Pond, East Wharf.;75620;Karachi;Sind;Pakistan;
+1002270;Trade Links;4;+923008422881;sales@tradelinks.net.pk;www.tradelinks.net.pk;www.abb.com;13 Brandrath Road. 1-G .Nayab Chambers;54000;Lahore;Punjab;Pakistan;
+1002271;Trade Ventures(Pvt) Ltd;4;+923458555272;hhmalik@yahoo.com;NotAvailable;www.abb.com;32-A/2, Zafar Ali Road, Gulberg V;54000;Lahore;Punjab;Pakistan;
+1002551;Zain Com;4;+922134131304;syed.amin@zaincom.com.pk;www.zaincom.com.pk;www.abb.com;A-58 1st Floor Block- 10A Gulshan-e-Iqbal;75000;Karachi;Sind;Pakistan;

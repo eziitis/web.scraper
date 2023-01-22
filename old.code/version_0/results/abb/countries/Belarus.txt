@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999767;Energopromis Ltd;4;+375173730021;mail@energopromis.by;www.energopromis.by;www.abb.com;4/1, Biruzova str.;220073;Minsk;Minsk;Belarus;
+999972;Overdrive-Elektro LLC;4;+375172337699;office@overdrive.by;www.overdrive.by;www.abb.com;Kahovskaya 37, office 3;220068;Minsk;Minsk;Belarus;
+1000003;Promenergocomplex JLLC;4;+375172943635;info@pek.by;www.pek.by;www.abb.com;Uralskiy lane, 15-343;220037;Minsk;Minsk;Belarus;
+1000076;Sibocom-M LLC;4;+375173972597;drives@sibocom.com;www.sibocom.com;www.abb.com;Lukyanovicha, 10, office 601;220113;Minsk;Minsk;Belarus;

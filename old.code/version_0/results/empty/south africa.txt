@@ -1,0 +1,2 @@
+999724;Drives and Controls Pty Ltd;4;;;www.drivesandcontrols.co.za;www.abb.com;Unit 45, HGI Bridgeway Business par 496 Pinnacle road, Tunney;1401;Germiston;Gauteng;south africa;
+1000036;RobotEngine;4;;;www.therobotengine.com;www.abb.com;2 Lothian Road;4051;Durban;KwaZulu-Natal;south africa;

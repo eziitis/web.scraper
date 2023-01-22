@@ -1,0 +1,11 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999626;ASISTENCIA Y AUTOMATIZACION S.A.S;4;+5744485534;asistenciayautomatizacion@gmail.com;www.asistenciayautomatizacion.com;www.abb.com;Cra. 56E No.76 Sur 38;055467;La Estrella;Antioquia;Colombia;
+999694;COLSEIN SAS;4;+5718698789;info@colsein.com.co;www.colsein.com.co/;www.abb.com;Parque Industrial Gran Sabana Edificio 32;251017;Tocancipa;Cundinamarca;Colombia;
+999747;Electronica De Potencia Y Semiconductores Y Compania Sociedad En Comandita Por Acciones;4;+5725248818;epyscaribe@epys.com.co;https://epys.com.co/landing/;www.abb.com;Carrera 6 20 30 Brr San Nicolas;760044;Cali;Valle del Cauca;Colombia;
+1000067;Servicios De Automatizacion Y Venta Industriales Ingenieria Sas;4;+5776945057;saviing@hotmail.com;;www.abb.com;Calle 105A N° 21 - 70 Barrio Provenza;680004;Bucaramanga;Norte de Santander;Colombia;
+1000174;ABCONTROL INGENIERIA S A S;4;+5717465545;marketing@abcontrol-ingenieria.com;https://abcontrolingenieria.com/;www.abb.com;CR 80 73A 29;110561;Bogota;Bogota;Colombia;
+1000848;Distribuciones Electricas AC;4;+5728882417;;https://acdistribucioneselectricas.com/;www.abb.com;Calle 22 No. 20B-21 Av.santander;520003;San Juan de Pasto;Narino;Colombia;
+1000972;Electricos E Iluminacion Sas;4;+573175861695;cliente@electricosei.com;https://dekoei.com/;www.abb.com;KRA 43 No. 79-61;---;BARRANQUILLA;Atlantico;Colombia;
+1000973;Electricos la 36;4;+5716610705;info@electricosla36.co;https://www.electricosla36.co/;www.abb.com;Calle 36 No. 28 - 13;---;Villavicencio;Meta;Colombia;
+1001223;INGEAL S.A.;4;+5716558455;mercadeo@ingeal.com;https://ingeal.com/;www.abb.com;CRA 13 96 - 38;655 8455;Bogota;Bogota;Colombia;
+1001926;RG Distribuciones SA;4;+5743510622;dircomercial@rgd.com.co;https://www.rgd.com.co/portal/principal.html;www.abb.com;Cl 8 N 9 46 EL ACERO;661002;Dosquebradas;Risaralda;Colombia;

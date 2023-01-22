@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002614;Neat;4;+34 902 365 748;;www.neat-group.com;www.legrand.com;C/ Del Espino, 14 - Urb. Montepríncipe;;28668 Boadilla del Monte - MADRID;;Spain;
+1002615;Tegui;4;+34 91 656 1812;;www.tegui.es;www.legrand.com;Hierro, 56;;28850 Torrejon de Ardoz - MADRID;;Spain;

@@ -1,0 +1,9 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999695;Compania Climatizadora SA;4;+5073009356;info@climatizadora.com.pa;www.climatizadora.com;www.abb.com;Urbanization Los Angeles, Street 63 Oeste Final Apartment;0816-02916;Ciudad de Panama;Panama;Panama;
+1000279;Automation & Power;4;+5073681051;fabian.borbua@automation-power.com;www.automation-power.com;www.abb.com;Panaexport, Galera 10A, Ojo de agua Zona Franca;0820;Ciudad de Panama;Panama;Panama;
+1000692;COCHEZ Y CIA SA;4;+5073024444;;www.cochezycia.com;www.abb.com;Ave Eloy Alfar No 15 33 Edif;---;Ciudad De Panama;Panama;Panama;
+1000960;Electricidad Castellanos S.A.;4;+5073663600;electrisa@electrisa.com;www.electrisa.com;www.abb.com;Via Transistmica No.35 Salida De Bethania;---;El Dorado;Panama;Panama;
+1001039;Elementos Industriales;4;+5072213788;info@elementosindustriales.com.pa;www.elementosindustriales.com.pa;www.abb.com;Via Espana Y, Mt Oscuro;96 806;Ciudad de Panama;Panama;Panama;
+1001215;Importadora De Plomeria, SA;4;+5072710855;ventasweb@implosa.com;www.implosa.com;www.abb.com;Costa Del Este;---;Ciudad de Panama;Panama;Panama;
+1001255;Jid SA;4;+5072325418;jidsa@cejisa.com;www.grupocejidsa.com;www.abb.com;Llanos De Curundu, Local 207;---;Ciudad de Panama;Panama;Panama;
+1001386;Metales Panamericanos SA;4;+5073707777;ventas@metalpan.com;www.metalpan.com;www.abb.com;Via Transistmica, Urbanizacion Industrial Orillac, Calle 28D Oeste;---;Ciudad De Panama;Panama;Panama;

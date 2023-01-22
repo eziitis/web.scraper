@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1005601;TECALEMIT FLOW OY;4;;;;www.se.com;Hankasuontie 13;00391;HELSINKI;;Finland;
+1005667;Onninen Oy;4;;;www.onninen.fi;www.se.com;Niinistönkatu 16 C;05800;HYVINKÄÄ;;Finland;
+999693;Co-Engineering Oy;4;;;www.co-engineering.fi;www.abb.com;Vasaratie 19;65350;Vaasa;Ostrobothnia;finland;
+999879;Iss Palvelut Oy;4;;;www.iss.fi;www.abb.com;Karvaamokuja 2 A;00380;Helsinki;Uusimaa;finland;

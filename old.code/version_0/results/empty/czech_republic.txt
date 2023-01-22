@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1005243;ASPERA elektro s.r.o.;4;;;https://www.aspera.cz/;www.se.com;U Topíren 3992;580 01;Havlíčkův Brod;;Czech Republic;
+1005263;Elektric-Hranice s.r.o.;4;;;;www.se.com;Palackého 1906;753 01;Hranice I-Město;Olomoucky;Czech Republic;

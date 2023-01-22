@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999680;Brave Control Solutions;4;+15199749955;info@bravecs.com;www.bravecs.com;www.abb.com;1785 Walker Road;N8W 5C2;Windsor;Ontario;Canada;
+1000012;Radian Robotics;4;+1(905)639-7370;sales@radianrobotics.com;www.radianrobotics.com/;www.abb.com;70 LANCING DR;L8W 3A1;Hamilton;Ontario;Canada;

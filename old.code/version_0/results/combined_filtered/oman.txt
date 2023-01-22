@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999811;Global Pavilion LLC;4;+96824551846;sales@gploman.com;www.gploman.com;www.abb.com;Ground Floor, Building no 578A, Street 1008, PO Box 845;130;Mawaleh-11;Muscat;oman;
+999857;Industrial Supplies Center LLC (ISC);4;+96824467233;sales@isc-depot.com;www.isc-depot.com;www.abb.com;7715 street, building No: 2320;101;Muscat;Muscat;oman;

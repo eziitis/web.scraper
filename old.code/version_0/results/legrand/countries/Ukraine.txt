@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002609;Legrand Ukraine;4;+38.044.351.12.00;office.kiev@legrand.ua;www.legrand.ua/;www.legrand.com;Turivs'ka, 31;;04080 Kyiv;;Ukraine;

@@ -1,0 +1,14 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999841;I.E.S. d.o.o.;4;+385917346001;info@ies.hr;www.ies.hr;www.abb.com;Bok 23A;51000;Rijeka;Primorsko-goranska;Croatia;
+999945;Montelektro d.o.o.;4;;zagreb@montelektro.hr;www.montelektro.hr;www.abb.com;Kudeji 53;51215;Kastav;Primorsko-goranska;Croatia;
+1000047;S.C.A.N. d.o.o.;4;+385992724053;scan@scan.hr;www.scan.hr;www.abb.com;Buzinski Prilaz 38;10010;Zagreb;Grad Zagreb;Croatia;
+1000199;Aleta d.o.o.;4;+38512332934;prodaja@aleta.hr;https://www.aleta.hr;www.abb.com;Tribanjska ulica 2;23000;Zadar;Zadarska;Croatia;
+1000222;Amper d.o.o.;4;+38513882523;amper@amper.hr;www.amper.hr/;www.abb.com;TPC Precko, Slavenskoga 1;10000;Zagreb;Grad Zagreb;Croatia;
+1000803;Cotra d o.o.;4;+38542402000;cotra@cotra.hr;www.cotra.hr/;www.abb.com;Ivana Severa 17;42000;Varazdin;Varazdinska;Croatia;
+1000912;EL.MA.H. d.o.o.;4;+38513370101;elmah@elmah.hr;www.elmah.hr;www.abb.com;Ul. Dr. Franje Tudmana 6;10 434;STRMEC SAMOBORSKI;Zagrebacka;Croatia;
+1001038;Elektrotehna d.o.o.;4;+38521246420;elektrotehna@st.t-com.hr;www.elektrotehna.hr;www.abb.com;Dracevac 2d;21000;Split;Splitsko-dalmatinska;Croatia;
+1001041;Ellabo d.o.o.;4;+3851 6611111 ;ellabo@ellabo.hr;www.ellabo.hr;www.abb.com;Kamenarka 24;10010;Zagreb;Grad Zagreb;Croatia;
+1001197;Himera inzenjering i trgovina d.o.o.;4;+385953119662;himera@himera.hr;;www.abb.com;Vinogradska 7a;31327;Bilje;Osjecko-baranjska;Croatia;
+1001280;Kastav Grupa d.o.o.;4;+38551691209;info@kastavgrupa.hr;www.kastavgrupa.hr;www.abb.com;Tometici 14a;51215;Kastav;Primorsko-goranska;Croatia;
+1002008;SISTEMA d.o.o.;4;+38598424929;info@sistema.hr;www.sistema.hr;www.abb.com;Poduzetnicka zona 27;52216;Galizana;Istarska;Croatia;
+1002288;Visio Tim d.o.o.;4;+38514667076;info@visio-tim.hr;www.visio-tim.hr;www.abb.com;Vukomerec 45;10 000;Zagreb;Zagrebacka;Croatia;

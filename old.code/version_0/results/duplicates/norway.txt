@@ -1,0 +1,17 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1014330;Sigum Fagerberg AS;4;+4795266280;tov@sifag.no;www.sigumfagerberg.no/;www.se.com;Billingstadsletta 19 B;1396;Billingstad;;Norway;
+1014333;Solar Norge AS - Hamar;4;63946400;support@solarengros.no;www.solarnorge.no;www.se.com;Valhallavegen 8;2060;GARDERMOEN;;Norway;
+1014334;Solar Norge AS - Hovedkontor;4;63946400;support@solarengros.no;www.solarnorge.no;www.se.com;Valhallavegen 8;2060;GARDERMOEN;;Norway;
+1014335;Solar Norge AS - Oslo;4;63946400;support@solarengros.no;www.solarnorge.no;www.se.com;Valhallavegen 8;2060;GARDERMOEN;;Norway;
+1014336;Solar Norge AS - Skien;4;63946400;support@solarengros.no;www.solarnorge.no;www.se.com;Valhallavegen 8;2060;GARDERMOEN;;Norway;
+1014337;Solar Norge AS - Stavanger;4;63946400;support@solarengros.no;www.solarnorge.no;www.se.com;Valhallavegen 8;2060;GARDERMOEN;;Norway;
+1014379;Ahlsell Norge AS - Fredrikstad;4;51818500;;;www.se.com;Rolvsøyveien 203;1617;FREDRIKSTAD;;Norway;
+1014384;Elsupport AS;4;+4795944386;audun@elsupport.no;https://www.elsupport.no/;www.se.com;Vorpenesstranda 9;6390;Vestnes;;Norway;
+1014390;Ahlsell Norge AS - Hovedkontor;4;51818500;info@ahlsell.no;www.ahlsell.no;www.se.com;Bonntjennsvegen 14;2051;Jessheim;;Norway;
+1014401;Ahlsell Norge AS - Porsgrunn;4;51818500;;;www.se.com;HYDROVEGEN 19;3933;PORSGRUNN;;Norway;
+1014402;Guard Automation AS - Bergen;4;;post@guard.no;;www.se.com;Litleåsvegen 53;5132;NYBORG;;Norway;
+1014412;Ahlsell Norge AS - Stavanger Gml Forus 51;4;51818500;;;www.se.com;GAMLE FORUSVEIEN 51;4031;STAVANGER;;Norway;
+1014432;Onninen AS - Kristiansand S;4;6706;;;www.se.com;Kongsgård Alle 53;4632;KRISTIANSAND S;;Norway;
+1014433;Onninen AS - Oslo Ensjoveien;4;6706;;;www.se.com;Ensjøveien 10 -12;655;OSLO;;Norway;
+1014435;Onninen AS - Skien;4;6706;;;www.se.com;Kjørbekkdalen 12 A;3916;PORSGRUNN;;Norway;
+1014436;Onninen AS - Stavanger Auglendsmyra;4;6706;;;www.se.com;Auglendsmyrå 3;4016;STAVANGER;;Norway;

@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002605;IME;4;+39 0244878.1;;www.imeitaly.com;www.legrand.com;IME Istrumenti Misure Elettriche SpA - Via Travaglia 7;;20094 Corsico (MI);;Italy;
+1002606;Primetech;4;+39.0444.953234;;www.primetech.it;www.legrand.com;Via Ghizzole, 35;;36023 Longare (VI);;Italy;

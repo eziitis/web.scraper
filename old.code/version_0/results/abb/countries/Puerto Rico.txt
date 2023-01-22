@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1001930;Roger Electric Corp;4;+7877863361;;www.rogerelectric.com;www.abb.com;Luchetti Industrial Park Calle 5;00960-3166;Bayamon;Puerto Rico;Puerto Rico;

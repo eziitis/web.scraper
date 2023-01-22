@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002556;Cemar Legrand;4;55 54 2101 9999;;www.legrand.com.br;www.legrand.com;Rua Gerson Andreis, 1255 Bairro - Distrito Industrial - CEP;;95112-13 Caxias do Sul - RS;;Brasil;
+1002557;HDL;4;+55 11 5644 2404;;www.hdl.com.br;www.legrand.com;Rodovia Waldomiro Corrêa de Camargo, Km. 52,5;;13308_904 Itu - SP;;Brasil;
+1002558;Lorenzetti;4;+55 (41) 3391.3200;;www.lorenzetti-eletric.com.br;www.legrand.com;Rua João Stukas, 3312 - Jardim São Vicente;;83602-110 Campo Largo – PR;;Brasil;
+1002559;PIAL Legrand;4;+55 11 5644 2600;;www.legrand.com.br;www.legrand.com;Rua Verbo Divino,1207 – Bloco A – Cj. 1, 2 ,11 e 12 - Chácara Santo Antônio;;04719-002 São Paulo – SP;;Brasil;
+1002560;SMS;4;+55 11 4075 7069;;www.sms.com.br;www.legrand.com;Av Pirâmide, 661 - Jardim Eldorado - Diadema;;São Paulo;;Brasil;

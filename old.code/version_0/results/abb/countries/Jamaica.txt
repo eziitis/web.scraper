@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999898;Klesing Industrial Supplies Ltda;4;876-925-0590;sales@klesingjm.com;www.klesing.net;www.abb.com;Shop 7 24 Dunrobin Ave;;Kingston;Kingston;Jamaica;
+1000179;ACCUPOWER JAMAICA Ltd;4;+18767541960;info@accupowerjamaica.com;www.accupowerjamaica.com;www.abb.com;4A EASTWOOD PARK ROAD;10;KINGSTON;Saint Andrew;Jamaica;
+1000887;DUNNS ELECTRICAL & HARD;4;1-876-7542921;sales@dunnselectrical.com;www.dunnselectrical.com;www.abb.com;15 3/4 Red Hills Road;;KINGSTON;Saint Andrew;Jamaica;

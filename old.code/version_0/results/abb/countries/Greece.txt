@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999818;GRP Electronics;4;+302262032975;jgkaripis@grpelectronics.gr;www.grpelectronics.gr;www.abb.com;Leophoros Athenon 1;32011;Oinofita;Voiotia;Greece;

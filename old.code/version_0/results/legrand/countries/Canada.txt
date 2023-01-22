@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002561;Legrand;4;+1 905 738 91 95;;www.legrand.ca;www.legrand.com;9024 Keele St;;L4K 2N2 Concord, Ontario;;Canada;
+1002562;Solarfective;4;;;www.solarfective.com;www.legrand.com;55 Hymus Road;;Toronto, Ontario;;Canada;
+1002563;Middle Atlantic Canada;4;(613) 836-2501 or 1-888-766-9770;;ca.middleatlantic.com;www.legrand.com;113 Iber Road;;Ottawa, ON K2S 1E7;;Canada;

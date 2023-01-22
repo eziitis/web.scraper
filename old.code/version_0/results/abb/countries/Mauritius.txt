@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000280;Automation & Power Products Ltd;4;+2304333036;info@appltd.tech;www.appltd.tech;www.abb.com;Lot 211, Moka Business Center, Mount Ory Road;80813;Moka;Mauritius;Mauritius;

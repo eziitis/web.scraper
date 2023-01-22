@@ -1,0 +1,18 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999862;Instrumentation And Control Specialists Inc;4;+6327171299;;www.incs.com.ph;www.abb.com;Units A & B 31 Mayon Street;1550;Mandaluyong City;NCR;Philippines;
+1000221;American Technologies Inc;4;+63285840000;inquiry@ati.com.ph;www.ati.com.ph;www.abb.com;#5 Ideal St. Cor Mccollough St., Brgy Addition Hills;1552;Mandaluyong City;NCR;Philippines;
+1000263;Asiaphil Inc;4;+6385638338;bong.paggabao@asiaphil.com;www.asiaphil.net;www.abb.com;1150 Pres. Quirino Avenue Ext., Paco . Manila;1077;Metro Manila;NCR;Philippines;
+1000802;Cosine Industries Inc;4;+63283670025;sales@cosine.com.ph;www.cosine.net.ph/;www.abb.com;10 Maximo Viola St., Brgy. Balingasan;1100;Quezon City;NCR;Philippines;
+1000861;Distribution & Control Products, Inc;4;+6325357644;sales@dcpi.com.ph;www.dcpi.com.ph;www.abb.com;74 P. Cruz Street, Brgy. San Jose;1550;Mandaluyong City;NCR;Philippines;
+1001052;Energia Teknika Integrated Systems, Inc;4;+464309925;marckrimpillo@gmail.com;energia-teknika-integrated.business.site;www.abb.com;Makiling St. Mt. View Industrial Complex, Bancal;4116;Cavite;CALABARZON;Philippines;
+1001103;Fepcor Electrical Corporation;4;+63284036392;fepcorsales@gmail.com;;www.abb.com;Unit 2-1 Sunshine Cond 9633 Kamagong Street;1203;San Antonio Village, Makati City;NCR;Philippines;
+1001182;GTECH SOLUTIONS INC;4;+6326595297;sales@gtechinc.ph;www.facebook.com/GTechSolutionsInc;www.abb.com;Bldg 4B Philcrest II Compound, km23 W Service Rd, Cupang, Muntinlupa, Kalakhang Maynila;1700;Paranaque City;NCR;Philippines;
+1001208;IATECH SOLUTIONS, INC;4;+63287218622;buddy.bonifacio@iatech.ph;https://m.facebook.com/IATECHSolutionsInc/#_=_;www.abb.com;UNIT 1210, 12 FLOOR ANNAPOLIS WILSHIRE PLAZA NO 11 ANNAPOLIS STREET;1502;GREENHILLS SAN JUAN;NCR;Philippines;
+1001281;KC Industrial Corporation;4;+6327810102;sales@kcic.com.ph;www.kcindustrial.com;www.abb.com;82 Cordillera Street corner Quezon Avenue;1100;Quezon City;NCR;Philippines;
+1001283;Kema Energy Solutions, Inc;4;+63283643649;allan.ventura@kemaenergy.com;kemaenergy.com;www.abb.com;#366 2nd St. between 9th & 10th Ave. Grace Park;1403;Caloocan City;NCR;Philippines;
+1001333;LJ INDUSTRIAL FABRICATION, Inc;4;+63288082956;sales@ljindustrial.com;www.ljindustrial.com;www.abb.com;LJ Complex, Brgy., Partoza Industrial Compound, Southdrive Street, San Antonio;1799;San Pedro;CALABARZON;Philippines;
+1001378;Mega Ricton Commercial & Industrial Corporation;4;+6328880215;megaricton@yahoo.com.ph;megaricton.bloombiz.com;www.abb.com;Unit 7-B No. 2519 M. Dela Cruz Street;1300;Pasay City;NCR;Philippines;
+1001486;PowerEdge Solutions Philippines, Inc;4;;sales@poweredge.com.ph;www.poweredge.com.ph;www.abb.com;285 Haig Street;1552;Mandaluyong City;NCR;Philippines;
+1001490;Prisma Electrical Controls Corp;4;+63287334526;projects@zenithinternational.ph;www.zenithunited.com;www.abb.com;682 Florentino Torres Street, Sta. Cruz;1003;Manila;NCR;Philippines;
+1002281;United Electrical Specialists, Inc;4;+6328085010;marketing@uesph.com;www.uesphil.com;www.abb.com;Unit 1903 Entrata Tower 1, Civic Drive, Filinvest Corporate City Alabang;1781;Muntinlupa City;NCR;Philippines;
+1002549;Yu Eng Kao Electrical Supply;4;+63282512881;fuji.ge@yuengkao.com;www.yuengkao.com;www.abb.com;2209 Jose Abad Santos Ave.;1013;Tondo;NCR;Philippines;

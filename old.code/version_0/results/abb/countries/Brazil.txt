@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999592;Alfatronic Automacao Ltda;4;;contatos@alfatronic.com.br;www.alfatronicautomacao.com.br;www.abb.com;Av Ruben Bento Alves, 5247;95032-440;Caxias Do Sul;Rio Grande do Sul;Brazil;
+999616;APS Componentes Eletricos Ltda;4;+551156450800;aps@apscomponentes.com.br;www.apscomponentes.com.br;www.abb.com;Trinta de Outubro 65;04776-050;Sao Paulo;Sao Paulo;Brazil;
+1000810;D. C. Secco & Cia Ltda;4;;;;www.abb.com;R Sergipe, 43 Sao Jose;99052-210;Passo Fundo;Rio Grande do Sul;Brazil;
+1001217;Industria Montagem e Instalacoes GIMI Ltda;4;+55(11)4752-9900;vendas@gimi.com.br;www.gimi.com.br;www.abb.com;Estr. Portao da Ronda 3530;08694-080;Suzano;Sao Paulo;Brazil;
+1001286;Kirsten Industria e Comercio de Produtos;4;;;www.kirsten.ind.br;www.abb.com;Av. Jucelino Kubitscheck de Oliveira, 799;81280-140;Curitiba;Parana;Brazil;

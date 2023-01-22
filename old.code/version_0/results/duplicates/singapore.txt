@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1019238;JK Technology Pte Ltd;4;87222003;justin_koh@jktech.com.sg;;www.se.com;61 Kaki Bukit Shun Li Industrial #02-13;417943;singapore;Singapore;Singapore;
+1019413;FENGSHENG ELECTRIC CO PTE LTD;4;;cheeseng@fengshengelectric.com.sg;;www.se.com;257 KAKI BUKIT AVENUE 1;416063;SINGAPORE;;Singapore;

@@ -1,0 +1,18 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1019068;ALFA ELEKTRO d.o.o.;4;;;;www.se.com;Kneza Mihaila 13;34000;Kragujevac;;Serbia;
+1019111;SSB LUX;4;;;;www.se.com;Jaroslava Cernog 44;11226;Belgrade;;Serbia;
+1019115;TADE LUX;4;;;www.tadelux.rs;www.se.com;Dubrovacka bb;36300;Novi Pazar;;Serbia;
+1019136;AMPER LIGHT;4;;;;www.se.com;Vojvode Putnika 19;34000;Kragujevac;;Serbia;
+1019141;ELECTRO LIGHTS PRO;4;;;;www.se.com;DUBROVACKA 194;36300;Novi Pazar;;Serbia;
+1019143;ELECTRO STELLA D.O.O.;4;;;;www.se.com;Autoput Za Novi Sad 103;11080;Belgrade;;Serbia;
+1019144;Elektro AS;4;;;;www.se.com;Knjazevacka 145;18000;Nis;;Serbia;
+1019157;ELEKTROMETAL;4;;;;www.se.com;0BILICEV VENAC 65;18000;Nis;;Serbia;
+1019159;ELEKTROMETAL-TANA;4;;;;www.se.com;Obilicev Venac 66;18000;Nis;;Serbia;
+1019163;ELEKTROPLANETA D.O.O.;4;;;;www.se.com;Antifasisticke borbe 34;11070;Belgrade;;Serbia;
+1019175;ELVIS;4;;;;www.se.com;Ulica Janka Veselinovića 100;15000;Šabac;;Serbia;
+1019183;EUROSTROJ D.O.O.;4;;;;www.se.com;Nikole Momčilovića bb;22300;Stara Pazova;;Serbia;
+1019189;G&G SRAFOVI D.O.O.;4;;;;www.se.com;Vojvode Stepe 138a;32000;Cacak;;Serbia;
+1019195;HOME ELEKTRO 014;4;;;;www.se.com;Karađorđeva 97;36000;Kraljevo;;Serbia;
+1019213;BLUE LINE D.O.O.;4;;;;www.se.com;Slobodana Jovica 15v;11042;Belgrade;;Serbia;
+1019220;METAL SHOP;4;;;;www.se.com;20. juli 17;11420;Smederevska palanka;;Serbia;
+1019222;MIC-PROM D.O.O.;4;;;www.micprom.com/;www.se.com;Partizanska 6A;11210;Belgrade;;Serbia;

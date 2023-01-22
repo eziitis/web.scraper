@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1011220;Control Pro Mernoki Szolgaltato Kft.;4;;;;www.se.com;Hercegprimas utca 3. II. em. 8.;1051;Budapest;Budapest;Hungary;
+1011223;Daniella Kereskedelmi Kft. Kaposvar;4;;;;www.se.com;Raktár utca 23;7400;Kaposvar;;Hungary;
+1011255;Daniella Váci ut.;4;;;;www.se.com;Külső Váci u. 83.;1044;Budapest;;Hungary;
+1011267;ELCOM Kft.;4;;;;www.se.com;Zaranyi u. 5.;7400;Kaposvar;;Hungary;
+1011294;ATYS-CO Kft;4;;;;www.se.com;Ferto u. 14.;1107;Budapest;;Hungary;

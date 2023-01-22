@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1004840;Materiales Electromecanicos Padilla;4;+5062240-5469;calvarado@matelpa.com;www.matelpa.com;www.se.com;Colima de Tibas¶300 mts este de la Ferreteria Epa;Tibas;Tibas;San José;Costa Rica;

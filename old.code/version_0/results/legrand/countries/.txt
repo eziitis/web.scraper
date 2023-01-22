@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999599;Tel : +372 68 27 268;4;;;;www.legrand.com;;;Alpes Technologies;;;
+1002595;Tel : +372 68 27 268;4;;;;www.legrand.com;;;Alpes Technologies;;;

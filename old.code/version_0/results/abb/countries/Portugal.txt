@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999668;BHB Sistemas De Controlo E Medida Ltd;4;+351218436400;geral@bhb.pt;www.bhb.pt;www.abb.com;Largo De Joao Vaz, 11;1700-249;Lisboa;Grande Lisboa;Portugal;
+999981;Pentaline - Equipamentos Industriais, Lda.;4;+351256388800;pentaline@pentaline.pt;www.pentaline.pt;www.abb.com;Zona Industrial Lordelo/CodalAvenida dos Pousados, Nº99;3730-666;Vale de Cambra;Baixo Vouga;Portugal;

@@ -1,0 +1,15 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1019536;ADVANT D.O.O;4;+38614700000;branko.jovanovic@advant.si;www.advant.si;www.se.com;Cesta Na Brdo 119A;1000;Ljubljana;;Slovenia;
+1019537;Ingram Micro d.o.o.;4;016002580;info@rrc-bt.com;www.rrc-bt.si;www.se.com;Pot k sejmiscu 30;1231;Ljubljana;;Slovenia;
+1019538;MARCHIOL D.O.O.;4;(05)3313100;;www.marchiol.si;www.se.com;Industrijska Cesta 5, Kromberk;5000;Nova Gorica;;Slovenia;
+1019539;MEGALITH Info & Media Uroš Bogataj s.p.;4;00386-31-631-817;info@megalith.si;www.megalith.si;www.se.com;Srednja vas - Poljane 24;4223;Poljane nad Škofjo Loko;Skofja Loka;Slovenia;
+1019540;Perftech d.o.o.;4;+38615884439;damir.hasic@perftech.si;www.perftech.si;www.se.com;Jadranska ulica 21;SI1000;Ljubljana;;Slovenia;
+1019543;Sintel d.o.o.;4;(03)4263640;sintel@sintel.si;www.sintel.si;www.se.com;Kersnikova ulica 17A;3000;Celje;;Slovenia;
+1019544;Telem;4;+38622284410;info@telem.si;https://telem.si/trgovina/;www.se.com;V Borovju 8;2000;Maribor;Maribor;Slovenia;
+1019545;TELMAK D.O.O.;4;(01)7564123;telmak@telmak.si;www.telmak.si;www.se.com;Obrtniska ulica 2;1370;Logatec;;Slovenia;
+1019546;ALSO Technology Ljubljana, d.o.o.;4;014205506;;;www.se.com;Ukmarjeva ulica 2;1000;Ljubljana;;Slovenia;
+1019548;ELEKTRONABAVA D.O.O.;4;(01)5899300;;www.elektronabava.si;www.se.com;Cesta 24 junija 3;1231;Ljubljana;;Slovenia;
+1019549;ELTEH D.O.O.;4;(01)5628240;info@elteh.eu;www.elteh.eu;www.se.com;Dol pri Ljubljani 35;1262;Ljubljana;;Slovenia;
+1019550;ENERGOMEN d.o.o.;4;+38641828316;metod.ivancic@energomen.si;www.energomen.si;www.se.com;Predoslje 114C;4000;KRANJ;Kranj;Slovenia;
+1019551;EVENTUS NOVO MESTO D.O.O.;4;(07)3932800;info@eventus-nm.si;www.eventus-nm.si;www.se.com;Povhova ulica 1;8000;Novo mesto;;Slovenia;
+1019552;FIBERNET d.o.o.;4;014205150;info@fibernet.si;www.fibernet.si;www.se.com;Gmajnice 15;1000;Ljubljana;;Slovenia;

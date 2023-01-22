@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1001046;Elvatron SA;4;+50622429960;mercadeo@elvatron.com;www.elvatron.com;www.abb.com;Elvatron;---;San Jose;Costa Rica;costa rica;

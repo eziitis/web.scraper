@@ -1,0 +1,18 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1011040;AEM TECHNOLOGY HONG KONG LIMITED;4;;;;www.se.com;UNIT G, 35/F COS CENTRE;999077;KWUN TONG;;Hong Kong;
+1011041;Ferragens E Artigos Electrices New Man Seng (Macau) LDA;4;;;;www.se.com;EM Macau, Beco Da Ilha Verde No 45, 1o Andar A;;Macau;;Macao;
+1011042;Green Wiser Solution & Service Limited;4;;;;www.se.com;Room 1501, 15/F Well Fung Industrial Building, 68 Ta Chuen Ping St,;999077;Kwai Chung;New Territories;Hong Kong;
+1011044;Hip Seng Electrical Co. Ltd;4;;;;www.se.com;Rua da Madre Terezina No. 16A R/C,;;Macau;;Macao;
+1011056;Kwong On Electric Co. Ltd;4;;;;www.se.com;G/F, 614 Reclamation St.;;Mong Kok;Kowloon;Hong Kong;
+1011060;MICROWARE LIMITED;4;;;;www.se.com;1/F, CENTURY CENTRE;999077;KWUN TONG;;Hong Kong;
+1011062;ATAL Building Services Engineering Ltd;4;;;;www.se.com;13/F, Island Place Tower, 510 King's Road, North Point;HK;Hong Kong;;Hong Kong;
+1011071;Union Electrical Ltd;4;;;;www.se.com;G/F, No. 8 Yuen Long On Hing St.;;Yuen Long;New Territories;Hong Kong;
+1011072;Union Electrical Ltd;4;;;;www.se.com;G/F, 108 Shanghai St;;Mong Kok;Kowloon;Hong Kong;
+1011074;Union Electrical Ltd;4;;;;www.se.com;G/F, 455 Reclamation St., Mong Kok,;;Mong Kok;Kowloon;Hong Kong;
+1011077;Wah Sun Electrical Supplies Ltd;4;;;;www.se.com;G/F, 421A Reclamation St.;;Mong Kok;Kowloon;Hong Kong;
+1011079;WELLENT SYSTEM CONSULTANTS LIMITED;4;;;;www.se.com;FLAT 101A-B, 1/F LAI CHEONG FACTORY BUILDING;999077;LAI CHI KOK;;Hong Kong;
+1011080;Westson Electrical Supplies Ltd;4;;;;www.se.com;G/F, Oceanic View, No. 218 Tung Chau St.;;Sham Shui Po;Kowloon;Hong Kong;
+1011081;Wing Kwong Electrical Co. Ltd;4;;;;www.se.com;G/F, 67 Portland St;;Yau Ma Tei;Kowloon;Hong Kong;
+1011082;Wing Kwong Electrical Co. Ltd.;4;;;;www.se.com;G/F, 113 Thomson Rd;;Wan Chai;Hong Kong Island;Hong Kong;
+1011085;Chung Hing Engineers Limited;4;;;;www.se.com;1/F., Westlands Centre, 20 Westlands Road, Quarry Bay;;Hong Kong;;Hong Kong;
+1011088;FAIR-RACK ELECTRICAL ASIA (HK) LTD.;4;;;;www.se.com;FLAT A, 1/F., BLOCK B, MARVEL IND.BLDG., 17-23 KWAI FUNG CRESCENT, KWAI CHUNG, N.T., HK;HK;HK;;;

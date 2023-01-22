@@ -1,0 +1,10 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1013064;K Senukai -  Daugavpils Filiāle;4;66778876;klientuserviss@ksenukai.lv;www.keskosenukai.lv;www.se.com;Kraujas iela 2;LV-5401;Daugavpils;;Latvia;
+1013065;K Senukai -  Jelgavas Filiāle;4;66778876;klientuserviss@ksenukai.lv;www.ksenukai.lv;www.se.com;Loka maģistrāle 1b;LV-3004;Jelgava;;Latvia;
+1013067;K Senukai -  Liepājas Filiāle;4;66778876;klientuserviss@ksenukai.lv;www.ksenukai.lv;www.se.com;Brīvības iela 164;LV-3401;Liepāja;;Latvia;
+1013068;K Senukai -  Rēzeknes Filiāle;4;+37166778876;klientuserviss@ksenukai.lv;www.ksenukai.lv;www.se.com;Atbrīvošanas iela 190;LV-4604;Rezekne;;Latvia;
+1013069;K Senukai -  Rīga, Lucavsalas iela 3;4;66778876;klientuserviss@ksenukai.lv;www.ksenukai.lv;www.se.com;Lucavsalas iela 3;LV-1055;Riga;;Latvia;
+1013070;K Senukai -  Rīga, Maskavas iela 418a;4;+37166778876;klientuserviss@ksenukai.lv;www.ksenukai.lv;www.se.com;Maskavas iela 418a;LV-1063;Riga;;Latvia;
+1013071;K Senukai -  Rīga, Priedaines iela 37;4;+37166778876;klientuserviss@ksenukai.lv;www.ksenukai.lv;www.se.com;Priedaines iela 37;LV-1075;Riga;;Latvia;
+1013072;K Senukai -  t/c OZOLS;4;+37166778876;klientuserviss@ksenukai.lv;www.ksenukai.lv;www.se.com;Mazā Rencēnu iela 1;LV-1073;Rīga;;Latvia;
+1013073;K Senukai -  Tukuma Filiāle;4;+37166778876;klientuserviss@ksenukai.lv;www.ksenukai.lv;www.se.com;Kurzemes iela 46;LV-3100;Tukums;;Latvia;

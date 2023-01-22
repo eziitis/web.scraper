@@ -1,0 +1,3642 @@
+Array
+(
+    [totals] => Array
+        (
+            [grand_totals] => Array
+                (
+                    [added] => 9815
+                    [duplicate] => 3486
+                    [empty] => 6535
+                )
+
+            [abb] => Array
+                (
+                    [added] => 1314
+                    [duplicate] => 9
+                    [empty] => 132
+                )
+
+            [legrand] => Array
+                (
+                    [added] => 200
+                    [duplicate] => 0
+                    [empty] => 17
+                )
+
+            [se] => Array
+                (
+                    [added] => 8301
+                    [duplicate] => 3477
+                    [empty] => 6386
+                )
+
+        )
+
+    [abb] => Array
+        (
+            [austria] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [australia] => Array
+                (
+                    [added] => 41
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [italy] => Array
+                (
+                    [added] => 36
+                    [duplicate] => 1
+                    [empty] => 8
+                )
+
+            [india] => Array
+                (
+                    [added] => 42
+                    [duplicate] => 0
+                    [empty] => 15
+                )
+
+            [serbia] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [united kingdom] => Array
+                (
+                    [added] => 40
+                    [duplicate] => 1
+                    [empty] => 2
+                )
+
+            [sweden] => Array
+                (
+                    [added] => 58
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [germany] => Array
+                (
+                    [added] => 65
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [spain] => Array
+                (
+                    [added] => 200
+                    [duplicate] => 2
+                    [empty] => 7
+                )
+
+            [chile] => Array
+                (
+                    [added] => 8
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [united arab emirates] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [bulgaria] => Array
+                (
+                    [added] => 23
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [taiwan (chinese taipei)] => Array
+                (
+                    [added] => 10
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [china] => Array
+                (
+                    [added] => 33
+                    [duplicate] => 0
+                    [empty] => 11
+                )
+
+            [ireland] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [south africa] => Array
+                (
+                    [added] => 27
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [turkiye] => Array
+                (
+                    [added] => 30
+                    [duplicate] => 1
+                    [empty] => 5
+                )
+
+            [united states] => Array
+                (
+                    [added] => 58
+                    [duplicate] => 0
+                    [empty] => 18
+                )
+
+            [egypt] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 6
+                )
+
+            [canada] => Array
+                (
+                    [added] => 14
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [saudi arabia] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [brazil] => Array
+                (
+                    [added] => 33
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [finland] => Array
+                (
+                    [added] => 13
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [netherlands] => Array
+                (
+                    [added] => 21
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [indonesia] => Array
+                (
+                    [added] => 41
+                    [duplicate] => 0
+                    [empty] => 4
+                )
+
+            [russian federation] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [norway] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [thailand] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [peru] => Array
+                (
+                    [added] => 35
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [belarus] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [trinidad and tobago] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [viet nam] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 7
+                )
+
+            [hungary] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [korea, republic of] => Array
+                (
+                    [added] => 10
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [croatia] => Array
+                (
+                    [added] => 11
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [singapore] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [venezuela, bolivarian republic of] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mexico] => Array
+                (
+                    [added] => 82
+                    [duplicate] => 2
+                    [empty] => 4
+                )
+
+            [slovenia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [ukraine] => Array
+                (
+                    [added] => 19
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [czech republic] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [france] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [lebanon] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [romania] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [jordan] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [poland] => Array
+                (
+                    [added] => 13
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [argentina] => Array
+                (
+                    [added] => 108
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [colombia] => Array
+                (
+                    [added] => 14
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [puerto rico] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [israel] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [iraq] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kuwait] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [palestine, state of] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [switzerland] => Array
+                (
+                    [added] => 31
+                    [duplicate] => 1
+                    [empty] => 1
+                )
+
+            [el salvador] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [dominican republic] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [costa rica] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bahrain] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [philippines] => Array
+                (
+                    [added] => 16
+                    [duplicate] => 1
+                    [empty] => 0
+                )
+
+            [myanmar] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [panama] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tanzania, united republic of] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [belize] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [guatemala] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [haiti] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [japan] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [belgium] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [namibia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [zambia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [lithuania] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [bolivia, plurinational state of] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [honduras] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bosnia and herzegovina] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [hong kong special administrative region of china] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mauritius] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [estonia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ecuador] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [andorra] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [malaysia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [republic of north macedonia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [montenegro] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bangladesh] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [portugal] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [pakistan] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [greece] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [jamaica] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [nicaragua] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [qatar] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+        )
+
+    [legrand] => Array
+        (
+            [algeria] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [angola] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [benin] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [botswana] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [burundi] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [cameroon] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [chad] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [comoros] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [djibouti] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [egypt] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [eritrea] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ethiopia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [gabon] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [gambia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ghana] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [guinea] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kenya] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [lesotho] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [liberia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [madagascar] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [malawi] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mali] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mauritania] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mauritius] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [morocco] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mozambique] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [namibia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [niger] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [nigeria] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [reunion] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [rwanda] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [senegal] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [seychelles] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [sierraleone] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [somalia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [swaziland] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tanzania] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [togo] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tunisia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [uganda] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [zambia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [zimbabwe] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [argentina] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [bahamas] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [barbados] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [belize] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bolivia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [brazil] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [canada] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [chile] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [colombia] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [dominica] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ecuador] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [grenada] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [guatemala] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [guyana] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [guyanefrançaise] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [haiti] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [honduras] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [jamaica] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [martinique] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mexico] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [nicaragua] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [panama] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [paraguay] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [peru] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [salvador] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [suriname] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [uruguay] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [venezuela] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [afghanistan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [armenia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [azerbaijan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bahrain] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bangladesh] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bhutan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [brunei] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [cambodia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [china] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [georgia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [india] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [indonesia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [iraq] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [israel] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [japan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [jordan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kazakhstan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kuweit] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kyrgyzstan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [laos] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [lebanon] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [malaysia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [maldives] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mongolia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [myanmar] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [nepal] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [oman] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [pakistan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [philippines] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [qatar] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [singapore] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tajikistan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [thailand] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [turkmenistan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [uzbekistan] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [vietnam] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [yemen] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [albania] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [andorra] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [austria] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [belarus] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [belgium] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bulgaria] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [croatia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [cyprus] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [denmark] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [estonia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [finland] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [france] => Array
+                (
+                    [added] => 12
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [germany] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [greece] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [hungary] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [iceland] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ireland] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [italy] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kosovo] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [latvia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [liechtenstein] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [lithuania] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [luxembourg] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [macedonia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [malta] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [moldova] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [montenegro] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [netherlands] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [norway] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [poland] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [portugal] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [romania] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [russia] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [serbia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [slovakia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [slovenia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [spain] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [sweden] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [switzerland] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [turkey] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ukraine] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [australia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [fiji] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kiribati] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [micronesia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [nauru] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [palau] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [rarotonga] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [samoa] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tonga] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tuvalu] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [vanuatu] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+        )
+
+    [se] => Array
+        (
+            [angola] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [tunisia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [senegal] => Array
+                (
+                    [added] => 14
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [reunion] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [austria] => Array
+                (
+                    [added] => 107
+                    [duplicate] => 16
+                    [empty] => 81
+                )
+
+            [mali] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [madagascar] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [hongkong,china] => Array
+                (
+                    [added] => 15
+                    [duplicate] => 0
+                    [empty] => 6
+                )
+
+            [sweden] => Array
+                (
+                    [added] => 58
+                    [duplicate] => 0
+                    [empty] => 44
+                )
+
+            [libya] => Array
+                (
+                    [added] => 13
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [haiti] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [benin] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [belgium] => Array
+                (
+                    [added] => 54
+                    [duplicate] => 0
+                    [empty] => 7
+                )
+
+            [algeria] => Array
+                (
+                    [added] => 22
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [uruguay] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [spain] => Array
+                (
+                    [added] => 1221
+                    [duplicate] => 3
+                    [empty] => 66
+                )
+
+            [paraguay] => Array
+                (
+                    [added] => 11
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [honduras] => Array
+                (
+                    [added] => 10
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [elsalvador] => Array
+                (
+                    [added] => 15
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [colombia] => Array
+                (
+                    [added] => 279
+                    [duplicate] => 0
+                    [empty] => 35
+                )
+
+            [chile] => Array
+                (
+                    [added] => 51
+                    [duplicate] => 0
+                    [empty] => 6
+                )
+
+            [bolivia] => Array
+                (
+                    [added] => 36
+                    [duplicate] => 0
+                    [empty] => 7
+                )
+
+            [albania] => Array
+                (
+                    [added] => 11
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [australia] => Array
+                (
+                    [added] => 370
+                    [duplicate] => 0
+                    [empty] => 72
+                )
+
+            [azerbaijan] => Array
+                (
+                    [added] => 8
+                    [duplicate] => 0
+                    [empty] => 4
+                )
+
+            [bahamas] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bermuda] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bulgaria] => Array
+                (
+                    [added] => 16
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [cambodia] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [bosniaandherzegovina] => Array
+                (
+                    [added] => 19
+                    [duplicate] => 0
+                    [empty] => 14
+                )
+
+            [dominica] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [switzerland] => Array
+                (
+                    [added] => 88
+                    [duplicate] => 146
+                    [empty] => 74
+                )
+
+            [estonia] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ghana] => Array
+                (
+                    [added] => 42
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [indonesia] => Array
+                (
+                    [added] => 116
+                    [duplicate] => 0
+                    [empty] => 28
+                )
+
+            [jamaica] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [lebanon] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [macedonia] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [malta] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mongolia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [namibia] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [netherlands] => Array
+                (
+                    [added] => 71
+                    [duplicate] => 0
+                    [empty] => 49
+                )
+
+            [nigeria] => Array
+                (
+                    [added] => 184
+                    [duplicate] => 7
+                    [empty] => 56
+                )
+
+            [oman] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [pakistan] => Array
+                (
+                    [added] => 11
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [philippines] => Array
+                (
+                    [added] => 79
+                    [duplicate] => 0
+                    [empty] => 14
+                )
+
+            [romania] => Array
+                (
+                    [added] => 89
+                    [duplicate] => 0
+                    [empty] => 18
+                )
+
+            [germany] => Array
+                (
+                    [added] => 1735
+                    [duplicate] => 2726
+                    [empty] => 4828
+                )
+
+            [saintlucia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [saudiarabia] => Array
+                (
+                    [added] => 105
+                    [duplicate] => 1
+                    [empty] => 17
+                )
+
+            [sierraleone] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [slovakia] => Array
+                (
+                    [added] => 14
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [thailand] => Array
+                (
+                    [added] => 92
+                    [duplicate] => 0
+                    [empty] => 10
+                )
+
+            [trinidadandtobago] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [unitedarabemirates] => Array
+                (
+                    [added] => 73
+                    [duplicate] => 0
+                    [empty] => 12
+                )
+
+            [vietnam] => Array
+                (
+                    [added] => 83
+                    [duplicate] => 0
+                    [empty] => 40
+                )
+
+            [virginislands(u.s.)] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [zambia] => Array
+                (
+                    [added] => 20
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [zimbabwe] => Array
+                (
+                    [added] => 23
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [india] => Array
+                (
+                    [added] => 414
+                    [duplicate] => 3
+                    [empty] => 37
+                )
+
+            [italy] => Array
+                (
+                    [added] => 914
+                    [duplicate] => 389
+                    [empty] => 361
+                )
+
+            [greece] => Array
+                (
+                    [added] => 28
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [portugal] => Array
+                (
+                    [added] => 350
+                    [duplicate] => 124
+                    [empty] => 109
+                )
+
+            [denmark] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 44
+                    [empty] => 25
+                )
+
+            [ireland] => Array
+                (
+                    [added] => 131
+                    [duplicate] => 0
+                    [empty] => 27
+                )
+
+            [unitedkingdom] => Array
+                (
+                    [added] => 424
+                    [duplicate] => 2
+                    [empty] => 92
+                )
+
+            [poland] => Array
+                (
+                    [added] => 617
+                    [duplicate] => 14
+                    [empty] => 131
+                )
+
+            [croatia] => Array
+                (
+                    [added] => 50
+                    [duplicate] => 0
+                    [empty] => 25
+                )
+
+            [czechrepublic] => Array
+                (
+                    [added] => 79
+                    [duplicate] => 2
+                    [empty] => 31
+                )
+
+            [ukraine] => Array
+                (
+                    [added] => 17
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [mozambique] => Array
+                (
+                    [added] => 17
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+        )
+
+    [country_totals] => Array
+        (
+            [austria] => Array
+                (
+                    [added] => 115
+                    [duplicate] => 16
+                    [empty] => 81
+                )
+
+            [australia] => Array
+                (
+                    [added] => 412
+                    [duplicate] => 0
+                    [empty] => 73
+                )
+
+            [italy] => Array
+                (
+                    [added] => 954
+                    [duplicate] => 390
+                    [empty] => 369
+                )
+
+            [india] => Array
+                (
+                    [added] => 459
+                    [duplicate] => 3
+                    [empty] => 53
+                )
+
+            [serbia] => Array
+                (
+                    [added] => 10
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [united kingdom] => Array
+                (
+                    [added] => 40
+                    [duplicate] => 1
+                    [empty] => 2
+                )
+
+            [sweden] => Array
+                (
+                    [added] => 117
+                    [duplicate] => 0
+                    [empty] => 45
+                )
+
+            [germany] => Array
+                (
+                    [added] => 1802
+                    [duplicate] => 2726
+                    [empty] => 4830
+                )
+
+            [spain] => Array
+                (
+                    [added] => 1425
+                    [duplicate] => 5
+                    [empty] => 73
+                )
+
+            [chile] => Array
+                (
+                    [added] => 59
+                    [duplicate] => 0
+                    [empty] => 10
+                )
+
+            [united arab emirates] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [bulgaria] => Array
+                (
+                    [added] => 40
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [taiwan (chinese taipei)] => Array
+                (
+                    [added] => 10
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [china] => Array
+                (
+                    [added] => 37
+                    [duplicate] => 0
+                    [empty] => 11
+                )
+
+            [ireland] => Array
+                (
+                    [added] => 135
+                    [duplicate] => 0
+                    [empty] => 29
+                )
+
+            [south africa] => Array
+                (
+                    [added] => 27
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [turkiye] => Array
+                (
+                    [added] => 30
+                    [duplicate] => 1
+                    [empty] => 5
+                )
+
+            [united states] => Array
+                (
+                    [added] => 58
+                    [duplicate] => 0
+                    [empty] => 18
+                )
+
+            [egypt] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 6
+                )
+
+            [canada] => Array
+                (
+                    [added] => 16
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [saudi arabia] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [brazil] => Array
+                (
+                    [added] => 40
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [finland] => Array
+                (
+                    [added] => 14
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [netherlands] => Array
+                (
+                    [added] => 95
+                    [duplicate] => 0
+                    [empty] => 52
+                )
+
+            [indonesia] => Array
+                (
+                    [added] => 158
+                    [duplicate] => 0
+                    [empty] => 32
+                )
+
+            [russian federation] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [norway] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [thailand] => Array
+                (
+                    [added] => 99
+                    [duplicate] => 0
+                    [empty] => 12
+                )
+
+            [peru] => Array
+                (
+                    [added] => 37
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [belarus] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [trinidad and tobago] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [viet nam] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 7
+                )
+
+            [hungary] => Array
+                (
+                    [added] => 10
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [korea, republic of] => Array
+                (
+                    [added] => 10
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [croatia] => Array
+                (
+                    [added] => 62
+                    [duplicate] => 0
+                    [empty] => 26
+                )
+
+            [singapore] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [venezuela, bolivarian republic of] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mexico] => Array
+                (
+                    [added] => 83
+                    [duplicate] => 2
+                    [empty] => 4
+                )
+
+            [slovenia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [ukraine] => Array
+                (
+                    [added] => 37
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [czech republic] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [france] => Array
+                (
+                    [added] => 14
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [lebanon] => Array
+                (
+                    [added] => 15
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [romania] => Array
+                (
+                    [added] => 95
+                    [duplicate] => 0
+                    [empty] => 21
+                )
+
+            [jordan] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [poland] => Array
+                (
+                    [added] => 631
+                    [duplicate] => 14
+                    [empty] => 133
+                )
+
+            [argentina] => Array
+                (
+                    [added] => 108
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [colombia] => Array
+                (
+                    [added] => 296
+                    [duplicate] => 0
+                    [empty] => 35
+                )
+
+            [puerto rico] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [israel] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [iraq] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kuwait] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [palestine, state of] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [switzerland] => Array
+                (
+                    [added] => 122
+                    [duplicate] => 147
+                    [empty] => 75
+                )
+
+            [el salvador] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [dominican republic] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [costa rica] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bahrain] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [philippines] => Array
+                (
+                    [added] => 96
+                    [duplicate] => 1
+                    [empty] => 14
+                )
+
+            [myanmar] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [panama] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tanzania, united republic of] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [belize] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [guatemala] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [haiti] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [japan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [belgium] => Array
+                (
+                    [added] => 62
+                    [duplicate] => 0
+                    [empty] => 8
+                )
+
+            [namibia] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [zambia] => Array
+                (
+                    [added] => 22
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [lithuania] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [bolivia, plurinational state of] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [honduras] => Array
+                (
+                    [added] => 13
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [bosnia and herzegovina] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [hong kong special administrative region of china] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mauritius] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [estonia] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ecuador] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [andorra] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [malaysia] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [republic of north macedonia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [montenegro] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bangladesh] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [portugal] => Array
+                (
+                    [added] => 353
+                    [duplicate] => 124
+                    [empty] => 109
+                )
+
+            [pakistan] => Array
+                (
+                    [added] => 14
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [greece] => Array
+                (
+                    [added] => 30
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [jamaica] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [nicaragua] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [qatar] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [algeria] => Array
+                (
+                    [added] => 23
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [angola] => Array
+                (
+                    [added] => 10
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [benin] => Array
+                (
+                    [added] => 8
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [botswana] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [burundi] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [cameroon] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [chad] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [comoros] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [djibouti] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [eritrea] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ethiopia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [gabon] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [gambia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [ghana] => Array
+                (
+                    [added] => 43
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [guinea] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kenya] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [lesotho] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [liberia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [madagascar] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [malawi] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mali] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mauritania] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [morocco] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mozambique] => Array
+                (
+                    [added] => 18
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [niger] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [nigeria] => Array
+                (
+                    [added] => 185
+                    [duplicate] => 7
+                    [empty] => 56
+                )
+
+            [reunion] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [rwanda] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [senegal] => Array
+                (
+                    [added] => 15
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [seychelles] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [sierraleone] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [somalia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [swaziland] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tanzania] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [togo] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tunisia] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [uganda] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [zimbabwe] => Array
+                (
+                    [added] => 24
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [bahamas] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [barbados] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bolivia] => Array
+                (
+                    [added] => 38
+                    [duplicate] => 0
+                    [empty] => 7
+                )
+
+            [dominica] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [grenada] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [guyana] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [guyanefrançaise] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [martinique] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [paraguay] => Array
+                (
+                    [added] => 11
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [salvador] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [suriname] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [uruguay] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [venezuela] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [afghanistan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [armenia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [azerbaijan] => Array
+                (
+                    [added] => 9
+                    [duplicate] => 0
+                    [empty] => 4
+                )
+
+            [bhutan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [brunei] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [cambodia] => Array
+                (
+                    [added] => 5
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [georgia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kazakhstan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kuweit] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kyrgyzstan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [laos] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [maldives] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [mongolia] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [nepal] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [oman] => Array
+                (
+                    [added] => 8
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [tajikistan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [turkmenistan] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [uzbekistan] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [vietnam] => Array
+                (
+                    [added] => 84
+                    [duplicate] => 0
+                    [empty] => 40
+                )
+
+            [yemen] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [albania] => Array
+                (
+                    [added] => 12
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [cyprus] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [denmark] => Array
+                (
+                    [added] => 8
+                    [duplicate] => 44
+                    [empty] => 25
+                )
+
+            [iceland] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kosovo] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [latvia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [liechtenstein] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [luxembourg] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [macedonia] => Array
+                (
+                    [added] => 6
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [malta] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [moldova] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [russia] => Array
+                (
+                    [added] => 0
+                    [duplicate] => 0
+                    [empty] => 5
+                )
+
+            [slovakia] => Array
+                (
+                    [added] => 15
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [turkey] => Array
+                (
+                    [added] => 4
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [fiji] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [kiribati] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [micronesia] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [nauru] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [palau] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [rarotonga] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [samoa] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tonga] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [tuvalu] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [vanuatu] => Array
+                (
+                    [added] => 1
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [hongkong,china] => Array
+                (
+                    [added] => 15
+                    [duplicate] => 0
+                    [empty] => 6
+                )
+
+            [libya] => Array
+                (
+                    [added] => 13
+                    [duplicate] => 0
+                    [empty] => 3
+                )
+
+            [elsalvador] => Array
+                (
+                    [added] => 15
+                    [duplicate] => 0
+                    [empty] => 2
+                )
+
+            [bermuda] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [bosniaandherzegovina] => Array
+                (
+                    [added] => 19
+                    [duplicate] => 0
+                    [empty] => 14
+                )
+
+            [saintlucia] => Array
+                (
+                    [added] => 2
+                    [duplicate] => 0
+                    [empty] => 0
+                )
+
+            [saudiarabia] => Array
+                (
+                    [added] => 105
+                    [duplicate] => 1
+                    [empty] => 17
+                )
+
+            [trinidadandtobago] => Array
+                (
+                    [added] => 7
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [unitedarabemirates] => Array
+                (
+                    [added] => 73
+                    [duplicate] => 0
+                    [empty] => 12
+                )
+
+            [virginislands(u.s.)] => Array
+                (
+                    [added] => 3
+                    [duplicate] => 0
+                    [empty] => 1
+                )
+
+            [unitedkingdom] => Array
+                (
+                    [added] => 424
+                    [duplicate] => 2
+                    [empty] => 92
+                )
+
+            [czechrepublic] => Array
+                (
+                    [added] => 79
+                    [duplicate] => 2
+                    [empty] => 31
+                )
+
+        )
+
+)

@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1013102;UAB "DEPO DIY";4;+37052080780;depo@depo-diy.lt;www.depo-diy.lt;www.se.com;Vakarinis aplinkelis 8;LT-48102;Kaunas;;Lithuania;
+1013148;UAB "DEPO DIY";4;+37052080780;depo@depo-diy.lt;www.depo-diy.lt;www.se.com;Maksimiškių g. 5;LT-02300;Vilnius;;Lithuania;
+1013150;UAB "DEPO DIY";4;+37045509400;depo@depo-diy.lt;www.depo-diy.lt;www.se.com; Klaipėdos g. 145;LT-37373;Panevėžys;;;

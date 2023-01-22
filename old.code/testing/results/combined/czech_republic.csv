@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999756;ELEXIM, a.s.;4;;info@elexim.net;www.elexim.net;www.abb.com;Riegrovo namesti 179/14;767 01;Kromeriz;Zlinsky;Czech Republic;
+1000114;SMAR s.r.o.;4;+420732571097;info@smar.cz;www.smar.cz;www.abb.com;Skroupova 1397/48;430 01;Chomutov;Ustecky;Czech Republic;
+1000182;VAE Prosys s.r.o.;4;+420556205581;vaeprosys@vaeprosys.cz;www.vaeprosys.cz;www.abb.com;Technologicka 429;708 00;Ostrava;Moravskoslezsky;Czech Republic;
+1000824;RMT, s.r.o.;4;;;www.rmt.cz;www.abb.com;Zahradni 224;739 21;Paskov;Moravskoslezsky;Czech Republic;

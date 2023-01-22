@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1005441;Finetrek OÜ;4;;;;www.se.com;Keevise 10;11415;Tallinn;;Estonia;
+1005446;IB Krates OÜ;4;;;;www.se.com;Maealuse 4;EE-12618;Tallinn;;Estonia;
+1005483;Winvol OÜ;4;;;;www.se.com;Sõpruse pst.159b;13424;Tallinn;;Estonia;

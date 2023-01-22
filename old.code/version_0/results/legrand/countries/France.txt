@@ -1,0 +1,8 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002597;Minkels;4;+33 1 64 61 61 91;info-fr@minkels.com;www.minkels.com;www.legrand.com;Bâtiment D2 - 19Bd. Georges Bidault;;77183 Croissy Beaubourg;;France;
+1002598;ICM Group Cablofil;4;+33 3 80 89 58 15;;www.cablofil.fr;www.legrand.com;1 route de Semur;;21500 Montbard;;France;
+1002599;Intervox;4;+33 1 48 10 69 50;;www.intervox.fr;www.legrand.com;5 rue Jean Nicot - BP 151;;93691 Pantin cedex;;France;
+1002600;Planet-Wattohm;4;+33 1 48 10 69 67;;www.planet-wattohm.fr;www.legrand.com;5 rue Jean Nicot - BP 155;;93691 Pantin cedex;;France;
+1002601;Sarlam;4;+33 2 37 53 80 00;;www.sarlam.com;www.legrand.com;54 rue du Général de Gaulle;;28240 Belhomert;;France;
+1002602;S2S Onduleurs;4;+33 4 94 44 56 94;;www.s2s-onduleur.fr;www.legrand.com;ZAC de la Bouverie - 33 rue des Entrepreneurs;;83520 ROQUEBRUNE SUR ARGENS;;France;
+1002603;Ura;4;+33 1 48 10 56 00;;www.ura.fr;www.legrand.com;41 rue Delizy;;93692 Pantin;;France;

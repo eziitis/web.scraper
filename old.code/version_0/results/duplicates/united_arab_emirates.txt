@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1024724;Oman Oil Industry Supplies & Services Co. L.L.C.;4;+96824117761;pradeep@ooiss.com;ooiss.com/;www.se.com;P.Box No. 510;112;Muscat;;Oman;

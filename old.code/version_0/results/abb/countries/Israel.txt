@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000188;Afcon Contracting & Services Ltd;4;+97286250500;lianad@afcon.co.il;www.afcon.co.il/subsidiary/afcon-manufacturing/?lang=en;www.abb.com;Tabor Alley 4 ET Cnota Petah Tikva;4969104;Beer Sheva;Southern;Israel;
+1000265;Ateka Ltd;4;972732001311;marketing@ateka.co.il;www.ateka.co.il;www.abb.com;4 Hatavor Alley;4969104;Petah Tikva;Central;Israel;
+1001998;Shlomo Kahane & Sons (2002) Ltd;4;97288633000;orders@kahane.co.il;www.kahane.co.il;www.abb.com;9 Haomanut;4250443;Netanya;Central;Israel;

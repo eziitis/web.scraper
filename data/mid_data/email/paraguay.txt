@@ -1,0 +1,11 @@
+Unique email list
+hmatiaud@capitolio.com.py
+roberto.veron@datalab.com.py
+info@netlogic.com.py
+dpto.comercial@parasoft.com.py
+alfredopizzuti@technoma.com.py
+alan.argana@telenet.com.py
+contacto@gns.com.py
+roberto.arana@heidecom.com
+cbiedermann@pserver.com.py
+colmedo@netlogic.com.py

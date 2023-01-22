@@ -1,0 +1,11 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1004170;Dempco Automation ltd;4;;;;www.se.com;General Stoletov 11 office B8;1309;Sofia;Grad Sofiya;Bulgaria;
+1004182;АВ Систем ЕООД;4;;;www.avsystem.bg;www.se.com;ул. Планиница №10;1614;София;;Bulgaria;
+1004186;Никика 90;4;;;www.nikika.com;www.se.com;жк. Славейков, ул. “Янко Комитов” 16;8000;Бургас;;Bulgaria;
+1004220;СТР Инженеринг ЕООД;4;;;;www.se.com;жк Люлин 7, улица 387,№2;1336;София;;Bulgaria;
+1004276;Вилмат ООД;4;;;;www.se.com;бул. Цариградско шосе №131;1784;София;;Bulgaria;
+1004289;Електра лайт ООД;4;;;https://www.facebook.com/pg/Elektralait;www.se.com;ул. Патриарх Евтимий №19;8900;Нова Загора;;Bulgaria;
+1004299;Елма-М-Груп АД;4;;;;www.se.com;ж.к. Сторгозия №32;5800;Плевен;;Bulgaria;
+1004300;Елма-М-Груп АД;4;;;www.elma-bg.com/;www.se.com;бул. Славянски №47;6000;Стара Загора;;Bulgaria;
+1004341;STR Engineering EOOD;4;;;;www.se.com;ul. EDINADESETA №2;2780;Belitsa;;Bulgaria;
+999892;Kabora EOOD;4;;;www.kabora.net;www.abb.com;Ul. Malashevska 8;1202;Sofia;Sofia;bulgaria;

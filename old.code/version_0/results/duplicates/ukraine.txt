@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002195;Suchasni Inzhenerni Merezhi LLC;4;+380443830927;info@sim.com.ua;www.ooo-sovremennye-inzhenernye-seti.ibud.ua;www.abb.com;1-a, bulvar Koltsova;03194;Kyiv;Kyiv;ukraine;

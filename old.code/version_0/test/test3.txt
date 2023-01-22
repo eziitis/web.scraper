@@ -1,0 +1,47 @@
+<Name>Bticino Costa Rica</Name>
+<Address>Barreal de heredia frente a Cenada, 6563-1000 San Jose</Address>
+<Country>Costa-Rica</Country> 
+<Tel>+506 298 5600</Tel>
+<Fax>+506 293 0108</Fax>
+<E-mail>ventas.cr@bticino.com</E-mail>
+<Web>www.bticino.cr</Web>
+
+<Name>HDL</Name>
+<Address>Rodovia Waldomiro Corrêa de Camargo, Km. 52,5, 13308_904 Itu - SP</Address>
+<Country>Brasil</Country>
+<Tel>+55 11 5644 2404</Tel>
+<Fax>+55 11 5644 2468</Fax>
+<E-mail></E-mail>
+<Web>www.hdl.com.br</Web>
+
+<Name>Lorenzetti</Name>
+<Address>Rua João Stukas, 3312 - Jardim São Vicente, 83602-110 Campo Largo – PR</Address>
+<Country>Brasil</Country>
+<Tel>+55 (41) 3391.3200</Tel>
+<Fax>+55 (41) 3391.3247</Fax>
+<E-mail></E-mail>
+<Web>www.lorenzetti-eletric.com.br</Web>
+
+<Name>SMS</Name>
+<Address>Av Pirâmide, 661 - Jardim Eldorado - Diadema, São Paulo</Address>
+<Country>Brasil</Country>
+<Tel>+55 11 4075 7069</Tel>
+<Fax>+55 11 4075 7784</Fax>
+<E-mail></E-mail>
+<Web>www.sms.com.br</Web>
+
+<Name>Solarfective</Name>
+<Address>55 Hymus Road, Toronto, Ontario</Address>
+<Country>Canada</Country>
+<Tel></Tel>
+<Fax></Fax>
+<E-mail></E-mail>
+<Web>www.solarfective.com</Web>
+
+<Name>Middle Atlantic Canada</Name>
+<Address>113 Iber Road, Ottawa, ON K2S 1E7</Address>
+<Country>Canada</Country>
+<Tel>(613) 836-2501 or 1-888-766-9770</Tel>
+<Fax>(613) 836-2690 or 1-888-599-5009</Fax>
+<E-mail></E-mail>
+<Web>ca.middleatlantic.com</Web>

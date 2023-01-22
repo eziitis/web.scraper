@@ -1,0 +1,5 @@
+
+Customer number;Customer name;Customer type;Customer group;Number;Address;Remark;Name;Address row 1;Zip code;City/Province;Country;
+999557;Comptoir Du Sud Ouest CSO;4;2;+33251897897;;www.abb.com;Comptoir;5 Rue du Marché Commun;44300;Nantes;France;
+999558;Consorcio Amesa Sa De Cv;4;2;+525556348860;ventas@amesa.com.mx;www.abb.com;Consorcio;Isabel La Catolica # 586, col. Alamos;03400;Del. Benito Juarez;Mexico;
+999559;CONTOMATIC S.A.C.I.Y.F.;4;2;+54 11 44323732;ventas@contomatic.com.ar;www.abb.com;CONTOMATIC;Av Directorio 1460;Caba;Argentina;

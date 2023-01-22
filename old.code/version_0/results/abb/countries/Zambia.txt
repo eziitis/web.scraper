@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000957;Electrical Maintenance Lusaka Ltd;4;00260967731975;sales@eml-eis.com;www.eml-eis.com;www.abb.com;Luanshya Road East End Plot 195;10101;Zambia za;Zambia;Zambia;

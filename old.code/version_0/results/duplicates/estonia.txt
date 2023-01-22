@@ -1,0 +1,12 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1005428;Energo Veritas OÜ;4;+37256871600;info@energoveritas.ee;www.energoveritas.ee;www.se.com;Paldiski mnt. 31;76606;Keila;;Estonia;
+1005429;Energo Veritas OÜ;4;+37256871600;info@energoveritas.ee;www.energoveritas.ee;www.se.com;Turu 51;50105;Tartu;;Estonia;
+1005434;Bauhof AS;4;+3726061444;tallinn@bauhof.ee;www.bauhof.ee;www.se.com;Pärnu mnt. 558;76401;Tallinn;;Estonia;
+1005450;K-Rauta;4;+3726309700;klienditeenindus@keskosenukai.ee;www.k-rauta.ee;www.se.com;Tammsaare tee 49;11316;Tallinn;;Estonia;
+1005451;K-Rauta;4;+3726309700;klienditeenindus@keskosenukai.ee;www.k-rauta.ee;www.se.com;Riia 140E;51014;Tartu;;Estonia;
+1005452;K-Rauta;4;+3726309700;klienditeenindus@keskosenukai.ee;www.k-rauta.ee;www.se.com;Papiniidu 2A;80010;Pärnu;;Estonia;
+1005469;Slo Eesti AS;4;+3726272286;info@slo.ee;www.slo.ee;www.se.com;Pärnu tn. 118;72720;Paide;;Estonia;
+1005471;Slo Eesti AS;4;+3726272261;info@slo.ee;www.slo.ee;www.se.com;Kreenholmi 14;21008;Narva;;Estonia;
+1005480;W.EG. EESTI OU;4;+372 6711900 ;info@wegestonia.ee;www.wegestonia.ee;www.se.com;Jalaka 66;51013;Tartu;;Estonia;
+1005481;W.EG. EESTI OU;4;+372 6711900;info@wegestonia.ee;www.wegestonia.ee;www.se.com;Kaasiku 30E;41541;Jõhvi;;Estonia;
+1005482;W.EG. EESTI OU;4;+372 6711900 ;info@wegestonia.ee;www.wegestonia.ee;www.se.com;Valukoja 5;11415;Tallinn;;Estonia;

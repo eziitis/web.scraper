@@ -1,0 +1,10 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999648;Avtomatizirovannie sistemi i kompleksy ZAO;4;+73433046074;asc@asc-ural.ru;www.asc-ural.ru;www.abb.com;ul.Studencheskaya, 1D;620137;Ekaterinburg;The Sverdlovsk Area;Russian Federation;
+999761;Elton OOO;4;+79119313154;andrey_pastuhov@eltonltd.ru;www.eltonltd.ru;www.abb.com;ul.Aviatsionnaya, 32, lit.B;196105;Sankt-Peterburg;c.St-Peterburg;Russian Federation;
+999865;Intechcom AO;4;+74952312139;;www.intechcom.ru;www.abb.com;ul. 2-ya Sinichkina, 9A, str.4;111020;Moscow;c.Moscow;Russian Federation;
+999875;Invertor OOO;4;+79602884170;privod@szemospb.ru;www.privod.szemo.ru;www.abb.com;prospekt Bolshevikov, 52, k.9;193315;Sankt-Peterburg;c.St-Peterburg;Russian Federation;
+999961;Nordgron OOO;4;+7(391)2001232;info@nordgron.com;www.nordgron.com;www.abb.com;ul.Lado Ketskhoveli, 17A, pom.4;660100;Krasnoyarsk;Krasnoyarsk Territor;Russian Federation;
+999964;NPP Akvaavtomatika OOO;4;+74999548471;aquaauto@orc.ru;www.aquaauto.orc.ru;www.abb.com;Sosnovaya alleya, 6, str.22;124489;Zelenograd;c.Moscow;Russian Federation;
+999997;Privodnaya tekhnika NTTs OOO;4;+73517751421;office@momentum.ru;www.momentum.ru;www.abb.com;ul.40 let Oktyabrya, 19;454007;Chelyabinsk;The Chelyabinsk Area;Russian Federation;
+1000005;PT-Servis OOO;4;+7(351)2195302;service@momentum.ru;www.service.momentum.ru;www.abb.com;ul.Mashinostroiteley, 1;454007;Chelyabinsk;The Chelyabinsk Area;Russian Federation;
+1000132;TsentrElektroMontazh OOO;4;+7(906)6751389;office@celmont.ru;www.celmont.ru;www.abb.com;ul.Minskaya 16;394033;Voronezh;The Voronezh Area;Russian Federation;

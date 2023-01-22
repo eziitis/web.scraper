@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002585;LEGRAND;4;+91 022 3041 6200;;www.legrand.co.in;www.legrand.com;61/62, Kalpataru Square, 6th Floor Off Andheri-Kurla Road - Andheri (East);;400 059 Mumbai;;India;
+1002586;ADLEC POWER;4;;;adlecpower.com;www.legrand.com;Rohad bypass, Decora Station Road, Near IUP Jindal Factory;;124501 (HR) Rohad;;India;
+1002587;INDO ASIAN;4;+91-120-3305100;;www.indoasian.com;www.legrand.com;V.J. Business Tower, A-6, First Floor, Sector – 125, Noida;;201303 Noida;;India;
+1002588;NUMERIC;4;+91 44 2499 3266;;www.numericups.com;www.legrand.com;183, 10th Floor, Prestige center court-office block, Vijaya forum mail, NSK salai, Vadapalani;;600 026 Chennai;;India;

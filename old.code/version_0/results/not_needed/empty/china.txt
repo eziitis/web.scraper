@@ -1,0 +1,8 @@
+999575;ACRE Automation Co Ltd;4;;;www.acre-automation.com;www.abb.com;No. 128, Gaoneng Street, Qixianling, High-tech Industrial Park;116000;Dalian;Liaoning;china;
+999609;Anhui Conch Information Technology Engineering Co Ltd;4;;;english.conch.cn;www.abb.com;yi jiang qu huo long gang zhen;241070;Wu Hu;Anhui;china;
+999659;Beijing Createlead Technology Co Ltd;4;;;www.createlead.com;www.abb.com;Economic and Technological Development Zone, No. 1A, Donghuan North Road;100176;Beijing;Beijing;china;
+999662;Beijing USE Science & Technology Co Ltd;4;;;en.njtu.edu.cn/;www.abb.com;No.3 ShangYuanCun, HaiDian District;100044;Beijing;Beijing;china;
+999681;BTA Automation Co Ltd;4;;;bta-automation.com;www.abb.com;No. 108 East Road Of North Fourth Ring Road, Yayuncun Area, Chaoyang District;100029;Beijing;Beijing;china;
+999687;Chongqing Chuanyi Automation Co Ltd;4;;;www.cqcy.com/;www.abb.com;No.1, Renmin Village, Beibei District;401127;Chongqing;Chongqing;china;
+1000069;Shandong Dongrun Instrument Science and Technology Co Ltd;4;;;;www.abb.com;Xiulin Road No.1, Laishan Economical Development District, Yantai City, Shandong Province;518129;Yantai;Shandong;china;
+1000070;Shandong Hengtech Science & Technology Development Co Ltd;4;;;www.sdhtech.com;www.abb.com;Jinan High-tech Zone, No. 2000 Shunhua Road, Shuntai Square No. 2 Building, Room No. 503;250022;Ji'Nan;Shandong;china;

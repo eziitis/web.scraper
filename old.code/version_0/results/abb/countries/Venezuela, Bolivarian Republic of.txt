@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000066;Servi Drive de Venezuela C.A.;4;;efranco@servidrive.com;www.servidrive.com;www.abb.com;Av. 15 Las Delicias con calle 89B, Edificio Centro Empresarial de Occidente, piso 1 oficina 1-3;4002;Maracaibo;Zulia;Venezuela, Bolivarian Republic of;

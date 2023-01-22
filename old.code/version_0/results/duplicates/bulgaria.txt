@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1004298;Елма-М-Груп АД;4;56859983;office.bs@elma-bg.com;www.elma-bg.com/;www.se.com;бул. Проф. Яким Якимов, склад СПЗ (зад бензиностанция БОВА);8000;Бургас;;Bulgaria;
+1004344;Лъч Терма 96;4;032960152;office@luchterma96.com;luchterma96.com;www.se.com;ул. Васил Караиванов №71;4300;Карлово;;Bulgaria;
+1004345;Лъч Терма 96;4;032960152;office@luchterma96.com;luchterma96.com;www.se.com;ул. Отец Паисий №2;4600;Велинград;;Bulgaria;
+1004347;Мастерхаус;4;070010321;;https://masterhaus.business.site/;www.se.com;местност "Чатал Тепе";8221;Несебър;;Bulgaria;
+1004348;Мастерхаус;4;070010321;;https://www.masterhaus.bg/;www.se.com;местност "Шопака", магазин MASTERHAUS;8290;Приморско;;Bulgaria;

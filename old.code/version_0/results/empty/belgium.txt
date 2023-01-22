@@ -1,0 +1,9 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1003407;CEBEO;4;;;www.cebeo.be;www.se.com;Z.I. 1ière rue 1;6040;Jumet;Hainaut;Belgium;
+1003426;TRILEC;4;;;www.trilec.be;www.se.com;Industrieweg 122 R;9032;Wondelgem;Oost Vlaanderen;Belgium;
+1003436;TRILEC SUD;4;;;www.trilec.be;www.se.com;Chaussée de Charleroi 43-45;5030;Gembloux;Namur;Belgium;
+1003451;CEBEO;4;;;www.cebeo.be;www.se.com;Boucle de la Famenne 80;6900;Marche-En-Famenne;Luxembourg;Belgium;
+1003455;CEBEO;4;;;www.cebeo.be;www.se.com;Bell Telephonelaan 3A;2440;Geel;Antwerpen;Belgium;
+1003458;CEBEO;4;;;www.cebeo.be;www.se.com;Parc d'activités Economiques de Recogne;6800;Libramont;;Belgium;
+1003470;CEBEO;4;;;www.cebeo.be;www.se.com;Dijkstraat 19;9160;Lokeren;Oost Vlaanderen;Belgium;
+1003514;REXEL BELGIUM;4;;;;www.se.com;ZUIDERLAAN 91;1731;ZELLIK-ASSE;Vlaams Brabant;Belgium;

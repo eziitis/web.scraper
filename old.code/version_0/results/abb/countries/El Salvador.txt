@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000444;Celasa Sa De Cv;4;+50321333333;;www.celasa.com.sv;www.abb.com;Prolongacion Alameda Juan Pablo II;---;San Salvador;San Salvador;El Salvador;
+1000715;Compresores Repuestos Y Servicios Sociedad Anonima De Capital Variable;4;+50322466666;ventassv@grupocompres.com;www.grupocompres.com;www.abb.com;67 Avenida Sur # 140 Colonia Escalon;---;San Salvador;San Salvador;El Salvador;

@@ -1,0 +1,9 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002628;EURL ONIRO;4;;;;www.se.com;72, coopérative CHAHID Saad Mohamed, local N°02 Emir AEKBoulevard MILLENIUM- Bir el Djir;31000;Oran;;Algeria;
+1002636;SARL FAMELEC;4;;;;www.se.com;LOTISSEMENT DJILALI HOCINE N°3 EL EULMA 19000-SETIF SETIF Algerie;24000;ELEULMA;;Algeria;
+1002637;SARL GROUPE RIADH EL FETH;4;;;;www.se.com;125 bd du 20 aout 55 Cité 1000 Logts.;19000;SETIF;;Algeria;
+1002638;ELECTRIC CENTER KAHLAT;4;;;;www.se.com;8 RUE AIN SOLTANE LES OLIVIERS KOUBA;FR;ALGER;Alger;Algeria;
+1002639;sarl guezei multi services;4;;;;www.se.com;hassi messaoud;30050;hassi messaoud;Ouargla;Algeria;
+1002640;SARL SOEMILEC;4;;;;www.se.com;26 RUE MOHAMED EL AYACHI BELOUIZDAD;16000;ALGER;;Algeria;
+1002642;SARL ZEED;4;;;;www.se.com;BLIDA;09000;BLIDA;Blida;Algeria;
+1002651;EURL ELECSCOPE;4;;;;www.se.com;BOUMERDES;35000;OULED MOUSSA;;Algeria;

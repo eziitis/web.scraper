@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999591;Alfanar Electrical Systems;4;+966532529197;info_ind.automation@alfanar.com;www.alfanar.com;www.abb.com;Northern Ring Road Between Exits 5 & 6, Near King Abdulaziz Center for National Dialogue;11411;Riyadh;Riad;Saudi Arabia;
+999617;Arabian Power Electronic Company;4;+966920007150;info@apec.sa.com;www.apec.sa.com;www.abb.com;Bughlaf Industrial Area, Al-Azizyah;31952;KHOBAR;Eastern Region;Saudi Arabia;
+1000026;Riyadh Aletqan For Contracting;4;;;;www.abb.com;7850 Al Hawwari - Al Malaz Dist. Unit No 15;12831 - 2125;Riyadh;Central Region;Saudi Arabia;

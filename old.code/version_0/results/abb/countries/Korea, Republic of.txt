@@ -1,0 +1,9 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999716;Daejeong A & G Co Ltd;4;+24622162;sklee@djang.co.kr;www.djang.co.kr;www.abb.com;473-13 Gunja-Dong Gwangjin-Gu;04996;Seoul;Gyeonggi-do;Korea, Republic of;
+1000046;S Mega Co Ltd;4;+25737521;smegak@naver.com;;www.abb.com;57, Nonhyeon-ro 27-gil, Seocho-gu;06747;Seoul;Seoul;Korea, Republic of;
+1000112;Systec Engineering Co Ltd;4;+323272677;jmjo@systeceng.co.kr;www.systeceng.co.kr;www.abb.com;22, Samjak-ro;14501;Bucheon-si;Gyeonggi-do;Korea, Republic of;
+1000166;Zeus Co Ltd;4;;;www.globalzeus.com;www.abb.com;132, Annyeongnam-ro;18148;Hwaseong-si;Gyeonggi-do;Korea, Republic of;
+1000299;BEE Co Ltd;4;+529549000;gw-kim@bestee.co.kr;;www.abb.com;206, 40, Sansung-ro, Buk-gu;44252;Ulsan;Ulsan;Korea, Republic of;
+1001124;GM SYSTECH Co Ltd;4;+262647889;babyhippo@empas.com;;www.abb.com;1007ho, Baeksang star tower 2cha,459-22, Gasang-dong, Gumcheon, gu;08504;Seoul;Seoul;Korea, Republic of;
+1002170;Songkwang Co Ltd;4;+513163891;sokwem@hanmail.com;;www.abb.com;34 Yutongdanji 1-Ro 57beon-Gil Gangseo-Gu Busan;46721;Busan;Busan;Korea, Republic of;
+1002298;Willinco Co Ltd;4;+266764567;ihsun@willinco.com;www.willinco.com;www.abb.com;17, Deogan-ro 104beon-gil;14322;Gwangmyeong-Si;Gyeonggi-do;Korea, Republic of;

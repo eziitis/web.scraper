@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002608;Legrand SNC Representative;4;+37061567474;office.vilnius@legrandelectric.com;;www.legrand.com;Perkunkiemio g. 3;;LT-12127 Vilnius;;Lituania;

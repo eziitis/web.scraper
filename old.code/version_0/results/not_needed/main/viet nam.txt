@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999625;Asia Trading and Engineering Co Ltd;4;+842432484095;nguyentronghien@asitec.com.vn;www.asitec.com.vn;www.abb.com;No.2/45 Nguyen Hong, Dong Da;100000;Ha Noi;Ha Noi;viet nam;
+999699;Cong ty TNHH Tu Dong Hoa va Thiet Bi Giao Duc Dong Duong;4;+439726712;atedongduong@gmail.com;dongduongate.com.vn;www.abb.com;B34 Lo 6, KDT Dinh Cong, Phuong Dinh Cong, Quan Hoang Mai;100000;Ha Noi;Ha Noi;viet nam;
+1000113;Systems Established Technology Equipment Joint Stock Company;4;+02466754466;info@systemcorp.vn;;www.abb.com;293 Tran Dang Ninh Str., Dich Vong ward, Cau Giay Dist.;010000;Ha Noi;Ha Noi;viet nam;

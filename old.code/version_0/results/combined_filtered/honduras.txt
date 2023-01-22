@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002171;SOTEC S.de R.L. de C.V.;4;+50425749451;ventas@conersa-ca.com;www.stecnicas.com;www.abb.com;ZIP Bufalo, Edificio #2A;00000;Villanueva;Cortes;honduras;

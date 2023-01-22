@@ -1,0 +1,11 @@
+Name: Bticino Costa Rica;Address: Barreal de heredia frente a Cenada, 6563-1000 San Jose;Country: Costa-Rica;Tel: +506 298 5600;Fax: +506 293 0108;E-mail: ventas.cr@bticino.com;Web: www.bticino.cr;
+
+Name: HDL;Address: Rodovia Waldomiro Corrêa de Camargo, Km. 52,5, 13308_904 Itu - SP;Country: Brasil;Tel: +55 11 5644 2404;Fax: +55 11 5644 2468;E-mail: ;Web: www.hdl.com.br;
+
+Name: Lorenzetti;Address: Rua João Stukas, 3312 - Jardim São Vicente, 83602-110 Campo Largo – PR;Country: Brasil;Tel: +55 (41) 3391.3200;Fax: +55 (41) 3391.3247;E-mail: ;Web: www.lorenzetti-eletric.com.br;
+
+Name: SMS;Address: Av Pirâmide, 661 - Jardim Eldorado - Diadema, São Paulo;Country: Brasil;Tel: +55 11 4075 7069;Fax: +55 11 4075 7784;E-mail: ;Web: www.sms.com.br;
+
+Name: Solarfective;Address: 55 Hymus Road, Toronto, Ontario;Country: Canada;Tel: ;Fax: ;E-mail: ;Web: www.solarfective.com;
+
+Name: Middle Atlantic Canada;Address: 113 Iber Road, Ottawa, ON K2S 1E7;Country: Canada;Tel: (613) 836-2501 or 1-888-766-9770;Fax: (613) 836-2690 or 1-888-599-5009;E-mail: ;Web: ca.middleatlantic.com;

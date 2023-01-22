@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999597;Alseden General Trading Co;4;+9647901525351;sales@alseden.com;www.alseden.com;www.abb.com;Salman Faek St. Al Sadi Building - Level 3 office 18;12345;Baghdad;Baghdad;Iraq;
+1000254;Ard Al Khair & Al Baraka for General Trading and Electrical Contracting Co Ltd;4;+9647812669666;info@kbiraq.com;https://www.kbiraq.com;www.abb.com;Aljomhorya St. 4;;Baghdad;Baghdad;Iraq;
+1001183;Haidar Jalal Jawad Co.;4;+9647502333111;info@hjj-electric.com;https://www.hjj-electric.com/;www.abb.com;Kurane Makhmour Street Alwathba;;Erbil;Arbil;Iraq;

@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1013874;Horizon Technology Ltd;4;;jamesf@horizontechnology.co.nz;;www.se.com;4 Antares Place;0632;Auckland;Auckland;New Zealand;

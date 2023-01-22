@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1004459;GUILLEVIN INTERNATIONAL INC.;4;(705)675-8815;;;www.se.com;122 DELL ST Building B1;P3C 2Y1;SUDBURY;Ontario;Canada;
+1004653;EECOL ELECTRIC LTD;4;(807)344-5300;;www.eecol.com;www.se.com;930 Alloy Drive;P7B 6A4;Thunder Bay;Ontario;Canada;

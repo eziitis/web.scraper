@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002604;Bticino GmbH;4;+49 2921 104 317;;www.bticino.de;www.legrand.com;Am Silberg 14;;59494 Soest;;Germany;

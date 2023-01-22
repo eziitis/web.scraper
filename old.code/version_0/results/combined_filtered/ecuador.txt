@@ -1,0 +1,12 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000209;Almacen Electrico Robalino Rosero Alecro Cia Ltda;4;+59323959400;ventasnorte@robalinorosero.com;https://www.robalinorosero.com/;www.abb.com;Av America N18 29 Y Portoviejo;170103;Quito;Pichincha;ecuador;
+1000212;Almacenes Juan Montero Cia Lt;4;+59372863755;ventas@ajm.ec;www.ajm.ec;www.abb.com;Av. Gil Ramirez Davalos 3-48 Y;010150;Cuenca;Azuay;ecuador;
+1000713;COMPANIA FERREMUNDO SA;4;+59346022800;pedidos@ferremundo.com.ec;www.ferremundo.com.ec;www.abb.com;KM 16.5 VIA A DAULE, MANZANA 2;---;GUAYAQUIL;Guayas;ecuador;
+1001231;Innovatronica;4;+59323360499;info@innovatronica.com.ec;https://innovatronica.com.ec/;www.abb.com;Av. Gaspar de Villarroel E10-121 y Av. 6 de Diciembre;EC170135;Quito;Pichincha;ecuador;
+1001359;Mantenimiento Tecnico Especializado Mte Cia. Ltda.;4;+593022434338;ingenieria@mte-ecuador.com;www.mte-ecuador.com;www.abb.com;RIO PALORA;170512;Quito;Pichincha;ecuador;
+1001383;Mercurio Electricidad;4;+59332813264;plc@mercurioit.com;www.mercurioit.com/;www.abb.com;Guayaquil 2-32 Antonia Vela;050102;Latacunga;Cotopaxi;ecuador;
+1001428;Nobreak S.A.;4;+5932416760;info@nobreak.com.ec;www.nobreak.com.ec;www.abb.com;Leonardo Murialdo OE1-12 y Galo Pla;170151;Quito;Pichincha;ecuador;
+1001497;PRODUCTOS METALURGICOS SA PROMESA;4;+59346006060;pedidos@promesa.com.ec;www.promesa.com.ec;www.abb.com;KM 5.5 VIA A DAULE;90150;GUAYAQUIL;Guayas;ecuador;
+1001997;Servicios De Ingenieria Carlos Lopez and Martinez Cia Ltda;4;+59322864077;clopezb@sical.com.ec;www.sical.com.ec;www.abb.com;Los Cipreses A Y Josefina Barba 17;EC170135;Quito;Pichincha;ecuador;
+1002223;Tab Kontroll;4;+59342003842;tabkontroll@claroempresas.com.ec;www.tabkontroll.com.ec;www.abb.com;Mapasingue Oeste Av. Tercera 143 Entre Via A Daule Y Calle Primera;90150;Guayaquil;Guayas;ecuador;
+1002229;Tcontrol SA;4;+59322802462;wvg@tcontrolsa.com;www.tcontrolsa.com;www.abb.com;De Los Eucaliptos E4-77;EC170135;Quito;Pichincha;ecuador;

@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1013205;NS DISTRIBUTION (M) SDN BHD;4;;yfchan@nsd.com.my;www.nsd.com.my;www.se.com;Sek Men Sains Hulu Terengganu Kampung Tajin;21700;Terengganu;;Malaysia;
+1013364;GBT CONTROL ELECTRICAL SDN BHD;4;6045011699;;;www.se.com;49, Jalan Juru, Taman Juru, Bukit Mertajam,;14000;Bukit Metajam;Pahang;Malaysia;
+1001181;G-Tech Automation Supplies;4;+6084-220817;gtechsibu@hotmail.com;NIL;www.abb.com;No 9, Jalan Pahlawan 7g;96000;Sarawak;Sarawak;malaysia;

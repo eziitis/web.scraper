@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1004976;CASA DEL BOMBILLO 2 (IE Grupo);4;+5763301415;ieportalweb@iegrupo.co;;www.se.com;CALLE 16 # 8 - 52;;Pereira;RISARALDA;Colombia;
+1000848;Distribuciones Electricas AC;4;+5728882417;;https://acdistribucioneselectricas.com/;www.abb.com;Calle 22 No. 20B-21 Av.santander;520003;San Juan de Pasto;Narino;colombia;

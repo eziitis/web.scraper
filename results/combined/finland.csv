@@ -1,0 +1,15 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999595;Algol Technics Oy;4;+358950991;info.technics.fi@algol.fi;www.algoltechnics.fi;www.abb.com;Karapellontie 6;02610;Espoo;Uusimaa;Finland;
+999654;Roboco Oy;4;+358405540258;roboco@roboco.fi;www.roboco.fi;www.abb.com;Lautatarhankatu 6;00580;Helsinki;Uusimaa;Finland;
+999657;Robotech Oy;4;+358503294003;info@robotech.fi;www.robotech.fi;www.abb.com;Huurretie 9;33470;Ylojarvi;Pirkanmaa;Finland;
+999665;Roxia Automation Oy;4;+358164590500;;www.polar-automaatio.fi;www.abb.com;Torniontie 4;94450;Keminmaa;Lapland;Finland;
+999682;Sermatech Oy;4;+35825311900;info@sermatech.fi;www.sermatech.fi;www.abb.com;Peltotie 26;28400;Ulvila;Satakunta;Finland;
+999724;Spraytec Oy;4;+358207851900;posti@spraytec.fi;www.spraytec.fi;www.abb.com;Juuritie 1;03100;Nummela;Uusimaa;Finland;
+999771;Trimaster Oy;4;+35832607612;info@trimaster.fi;www.trimaster.fi;www.abb.com;Aurinkokuja 3;33420;Tampere;Pirkanmaa;Finland;
+1000122;Arnon Oy;4;+358105265000;sales@arnon.fi;www.arnon.fi;www.abb.com;Kaapelikatu 3;33330;Tampere;Pirkanmaa;Finland;
+1000130;Auser Oy;4;;myynti.auser@auser.fi;www.auser.fi;www.abb.com;Jylpyntie 35;48230;Kotka;Kymenlaakso;Finland;
+1000796;Flexmill Oy;4;+358400320755;support@flexmill.fi;www.flexmill.fi;www.abb.com;Ilveskaari 19 B;01900;Nurmijarvi;Uusimaa;Finland;
+1000895;JOT Automation Oy;4;+358403015000;sales@jotautomation.com;www.jotautomation.com;www.abb.com;Elektroniikkatie 17;90590;Oulu;North Ostrobothnia;Finland;
+1000896;Jucat Oy;4;+358103263300;info@jucat.fi;www.jucat.fi;www.abb.com;Puurtajankuja 3;60100;Seinajoki;South Ostrobothnia;Finland;
+1000994;PCS Engineering Oy;4;;pcs@pcs-engineering.fi;www.pcs-engineering.fi;www.abb.com;Paulaharjuntie 20;90530;Oulu;North Ostrobothnia;Finland;
+1001160;Legrand scandinavia;4;;info.scandinavia@legrandgroup.com;www.legrand.fi;www.legrand.com;Avedøreholmen 48 2650 Hvidovre Danemark;;;;finland;

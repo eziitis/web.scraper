@@ -1,0 +1,13 @@
+999651;B&D INDUSTRIAL;4;;;www.bdindustrial.com;www.abb.com;588 12th Street;31201-3521;Macon;Georgia;united states;
+999707;CRT Services LLC;4;;;www.crt-services.com;www.abb.com;5515B FM 1960 E;77346;Humble;Texas;united states;
+999803;Galco Industrial Electronics Inc;4;;;www.galco.com;www.abb.com;1451 E LINCOLN AVE;48071-4139;Madison Heights;Michigan;united states;
+999866;Integrated Power Services LLC;4;;;www.ips.us;www.abb.com;4470 Lucerne Road;15701;Indiana;Pennsylvania;united states;
+999867;Integrated Power Services LLC;4;;;www.ips.us;www.abb.com;1320 Jim Gilligan Way;77705;Beaumont;Texas;united states;
+999868;Integrated Power Services LLC;4;;;www.ips.us;www.abb.com;2315 NW 21st Pl;97210;Portland;Oregon;united states;
+999869;Integrated Power Services LLC;4;;;www.ips.us;www.abb.com;1500 E Main St;77571;La Porte;Texas;united states;
+999870;Integrated Power Services LLC;4;;;www.ips.us;www.abb.com;5325 W 130th St;44130;Cleveland;Ohio;united states;
+999883;Jay Industrial Repair Inc;4;;;www.jayelectric.com;www.abb.com;5850 Selma Hwy;36108-4897;Montgomery;Alabama;united states;
+999920;Magnetech Industrial Services Inc;4;;;www.magnetech.com;www.abb.com;800 Nave Rd SE;44646-9476;Massillon;Ohio;united states;
+1000020;Red Stick Armature Works Inc;4;;;www.redstickarmature.com;www.abb.com;4110 Us Hwy 61;70775;Saint Francisville;Louisiana;united states;
+1000117;Tampa Armature Works Inc;4;;;www.tawinc.com;www.abb.com;440 S 78th St;33619;Tampa;Florida;united states;
+1000120;Taw Miami Service Center;4;;;www.tawinc.com;www.abb.com;9930 NW 89th Ave;33178-1425;Miami;Florida;united states;

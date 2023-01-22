@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1019489;IS - Industry solutions, a.s.;4;;;;www.se.com;M. R. Štefánika 129;01001;Žilina;Stredoslovensky;Slovakia;
+1019504;LEVEL, a.s.;4;;;;www.se.com;Mestsky majer 18;934 01;Levice;;Slovakia;
+1019516;REGOTECH;4;;;;www.se.com;Krásnohorská 3029/3;851 07;Bratislava;;Slovakia;
+1019522;VEREX-ELTO a.s.,   PO;4;;;;www.se.com;Jilemnickeho 4;080 01;Presov;;Slovakia;
+1019525;VEREX-ELTO a.s., TT;4;;;;www.se.com;Cukrova 6;917 01;Trnava;;Slovakia;

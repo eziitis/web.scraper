@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1013556;Elektron Materiales Eléctricos;4;(555)565-1870;ccomercial@elektron.com.mx;www.elektron.com.mx;www.se.com;Av. 5 de Febrero No. 1311 Local Cy D;76139;Querétaro;Querétaro;Mexico;
+1000789;CONECTORES Y SOPORTES ELECTRICOS S.A. DE C.V.;4;+525556570773;contacto@conselmexico.com;www.conselmexico.com;www.abb.com;NEUMATOLOGOS 4 COLONIA SAN JOSE ACULCO IZTAPALAPA;09410;Ciudad de Mexico;Ciudad de Mexico;mexico;

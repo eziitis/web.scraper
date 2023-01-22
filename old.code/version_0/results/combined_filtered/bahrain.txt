@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000197;Albait Furnishing B.S.C;4;0097317534354;albait@batelco.com.bh;https://albaitlighting.com/;www.abb.com;Bldg 81, Road 339, Block 318, Palace Avenue, Road 339,Pala;---;Manama;Central;bahrain;
+1000215;Almoayyed Trading And Contracting;4;0097317700777;anilkumar@almoayyedintl.com.bh;www.almoayyedintl.com.bh;www.abb.com;Refinery Road No. 3501 Area 635;26259;Manama;Capital;bahrain;

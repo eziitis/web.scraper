@@ -1,0 +1,16 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999916;LLC "EKNIS-ENGINEERING;4;+380442226589;eknisin@eknis.net;www.eknis.net;www.abb.com;Akademika Filatova 10-A, ofis 3/35;01042;Kyiv;Kyiv;Ukraine;
+999917;LLC "EXTREME LTD;4;+445937773;office@extreme-ltd.com.ua;extreme-ltd.com.ua;www.abb.com;Zoologichna str. 4-a, office 139;04119;Kyiv;Kyiv;Ukraine;
+1000086;Skif-Kontrol LLC;4;+380445685237;scontrol@skifcontrol.com.ua;www.skifcontrol.com.ua;www.abb.com;5-B, Yaltynska Str.;02099;Kyiv;Kyiv;Ukraine;
+1000264;AST-SVITLOTEKHNIKA LLC;4;+380672461812;svtsvet@svt.org.ua;www.svtsvet.com.ua;www.abb.com;bud. 201-203, litera 2-A, vul. Kharkivske shosse;02121;Kyiv;Kyiv;Ukraine;
+1001043;Eloter LLC;4;+380673547702;amper.ternopil@amper.te.ua;https://amper.te.ua;www.abb.com;vul. Brodivs'ka 44;46400;Ternopil';Ternopilska;Ukraine;
+1001290;KOM IN KOM LLC;4;+380445843957;office@comen.com.ua;comen.com.ua;www.abb.com;bud.8-A, vul. Velyka Zhytomyrska;01001;Kyiv;Kyiv;Ukraine;
+1001349;Madek NVP LLC;4;+380444997878;madek@madek.ua;https://madek.ua;www.abb.com;8, Horkoho Str.;08292;Bucha;Kyivska;Ukraine;
+1001440;Omega-Energo LLC;4;+380503306962;oblakevichs@gmail.com;altis.ua/contact#energo;www.abb.com;Krakovskaa 6a;02000;Kyiv;Kyivska;Ukraine;
+1001477;Pluton CJSC;4;+380612397900;info@pluton.ua;pluton.ua/;www.abb.com;75, of. 1, Lenina ave.;69600;Zaporizhzhia;Zaporizka;Ukraine;
+1001498;Programmed Technical Sistems Ltd;4;+380577141659;pts@pts.biz.ua;www.pts.biz.ua;www.abb.com;179-B, kv. 602, Moskovskyi ave.;61068;Kharkiv;Kharkivska;Ukraine;
+1001929;Robitnia LLC;4;+380322424654;office@robitnia.com;robitnia.com;www.abb.com;223B, Bohdana Khmelnytskoho Str.;79024;Lviv;Lvivska;Ukraine;
+1002195;Suchasni Inzhenerni Merezhi LLC;4;+380443830927;info@sim.com.ua;www.ooo-sovremennye-inzhenernye-seti.ibud.ua;www.abb.com;1-a, bulvar Koltsova;03194;Kyiv;Kyiv;Ukraine;
+1002246;Tekhsnabkomplekt servis LLC;4;+380612897700;info@tsks.com.ua;https://tsks.com.ua;www.abb.com;32, kv. 77, Ukrainska Str.;69095;Zaporizhzhia;Zaporizka;Ukraine;
+1002292;Voltline LLC;4;+380443577447;office@voltline.ua;voltline.ua;www.abb.com;Petropavlivska str. 15;04086;Kyiv;Kyiv;Ukraine;
+1002553;Zernova Stolytsya Inziniring (Grain Capital-Engineering) Tov;4;+380487868300;info@zeo.ua;https://zeo.ua/;www.abb.com;vul. Knazivska, bud. 35;65023;Odesa;Odeska;Ukraine;

@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002590;Bticino;4;+43 12 77 62 300;;www.bticino.at;www.legrand.com;Legrand Austria GmbH. - c/o Floridotower - Floridsdorfer Hauptstraße 1-7/E/3.OG;;A-1210 Wien;;Austria;

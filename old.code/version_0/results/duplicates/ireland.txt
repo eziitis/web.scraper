@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000895;Eastern Electrical Ltd;4;+353906475121;athlone.801@easternelectrical.ie;www.ewl.ie;www.abb.com;Dublin Road;---;Athlone;County Westmeath;ireland;

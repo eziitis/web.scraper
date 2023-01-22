@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999813;Goodtech AS;4;+4781568600;info@goodtech.no;goodtech.no/en/;www.abb.com;Innspurten 15;0663;Oslo;Oslo;Norway;
+999955;Necto AS;4;+4790675783;salg@necto.no;necto.no;www.abb.com;Markens gate 8;4611;Kristiansand S;;Norway;
+1000000;Process Control AS;4;+4799405300;pc@processcontrol.no;www.processcontrol.no;www.abb.com;Bredalsmarken 17;5006;Bergen;Vestland;Norway;
+1000083;Skala AS;4;+4723052800;;www.skala.no;www.abb.com;Fredrik Selmers vei 6;0663;Oslo;Oslo;Norway;
+1000124;Teknor AS;4;+4777041700;post@teknor.as;www.teknor.as;www.abb.com;Gamtoftveien 8;9415;Harstad;Troms og Finnmark;Norway;

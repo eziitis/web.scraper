@@ -1,0 +1,12 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999688;Chuwei Technology Co Ltd;4;;service@chuwei.tw;www.chuwei.tw;www.abb.com;No. 39, Dinghu 3rd St., Guishan Dist.;33378;Taoyuan;Taoyuan City;taiwan (chinese taipei);
+999715;Da Shiang Automation Industrial Co;4;+88633756088;service@dsa-atuo.com.tw;www.dsa-auto.com.tw/tc/index.php;www.abb.com;No 31, Xingbang Rd., Taoyuan District;33370;Guishan Township;Taoyuan City;taiwan (chinese taipei);
+999728;Dynamic Service Co Ltd;4;+886229993090;dynamic.service.tw@gmail.com;www.linkedin.com/company/dynamic-service-tw;www.abb.com;6F., No.6. Ln.609, Sec.5, Chongxin Rd.;241;Sanchong Dist.;New Taipei City;taiwan (chinese taipei);
+999838;How Tong Co Ltd;4;+8862-27191717;rean.kuo@howtong.com.tw;www.howtong.com.tw;www.abb.com;9-1F, No 54, Section 4, Mingsheng North Road;105;Songshan District;Taipei City;taiwan (chinese taipei);
+999884;JDR Consulting Ltd;4;+886222982970;info@jdr-ltd.com.tw;www.jdr-ltd.com.tw;www.abb.com;6F-10, No.1, Wuquan 1st Rd.;24892;Xinzhuang Dist.,;New Taipei City;taiwan (chinese taipei);
+999897;Kinetic Systems Engineering & Services Inc;4;+886226984762;;www.kinetic.com.tw;www.abb.com;19F- 1, No.79, Sec. 1, Xintai 5th Rd.;22147;Xizhi Dist.;New Taipei City;taiwan (chinese taipei);
+999924;Maple-Tek Enterprise Co Ltd;4;+886227385766;sales@maple-tek.com.tw;www.maple-tek.com.tw;www.abb.com;No. 9, Leye St., Da'an Dist.;10675;Taipei City;Taipei City;taiwan (chinese taipei);
+1000024;Riken Electric Co Ltd;4;+886-2-22236131;ken@riken.com.tw;www.riken.com.tw;www.abb.com;No.59, Jinhe Rd., Zhonghe Dist.;235;Taipei;New Taipei City;taiwan (chinese taipei);
+1000100;Sucom Electric Co Ltd;4;+8862-27120098;frankie@sucom.com.tw;www.sucom.com.tw;www.abb.com;3F.-6, No.170, Sec. 3, Minquan E. Rd.;10542;Songshan Dist.;Taipei City;taiwan (chinese taipei);
+1000139;UNIVERSAL DIRECT DIGITAL CONTROL Co Ltd;4;+886423553069;ud.digital@msa.hinet.net;www.udd.net.tw;www.abb.com;1F., No. 78, Gongyequ 38th Rd., Xitun District;40768;Taichung;Taichung City;taiwan (chinese taipei);
+1000151;Weltall Technology Corporation;4;+88635729666;;www.woya.com.tw;www.abb.com;4F-3, No. 83, Sec. 2, Gongdao 5th Rd., East Dist.;30070;Hsinchu City;Hsinchu City;taiwan (chinese taipei);

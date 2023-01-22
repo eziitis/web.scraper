@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1023273;Tec Supplies Group Ltd Bridge House;4;;reecep@tec-supplies.com;;www.se.com;Bridge House;CM9 4NF;MALDON;Essex;United Kingdom;
+1023957;Edmundson Electrical ltd - Oxf;4;;james.lee@eel.co.uk;;www.se.com;Unit 3 Osney Mead Ind Estate Factory Estate;OX2 0EN;Oxford;;United Kingdom;
+1024283;BPX Electro Mechanical Co. Ltd;4;01753619030;bpxslough@bpx.co.uk;https://www.bpx.co.uk/page/manufacturers/schneider-electric/schneider-iad;www.se.com;937 Yeovil Road;SL1 4NH;Berkshire;;United Kingdom;
+1024306;BPX Electro Mechanical Co. Ltd;4;01753619030;bpxslough@bpx.co.uk;https://www.bpx.co.uk/page/manufacturers/schneider-electric/schneider-iad;www.se.com;937 Yeovil Road;SL1 4NH;SLOUGH;;United Kingdom;

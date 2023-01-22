@@ -1,0 +1,17 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999789;Fengsheng Electric Co Pte Ltd;4;+6568443322;sales@fengshengelectric.com.sg;www.fengshengelectric.com;www.abb.com;257 Kaki Bukit Ave 1Shun Li Industrial Park;416063;Singapore;Singapore;Singapore;
+999806;Gennal Engineering Pte. Ltd;4;;sales@gennal.com;www.gennal.com;www.abb.com;18 Kaki Bukit Road 3 #02-07, Enterpreneur Business Centre;415978;Singapore;Singapore;Singapore;
+999890;KA INDUSTRIAL ENGINEERING PTE Ltd;4;+6567525700;desmondnyo@kaind.com.sg;www.kaind.com.sg;www.abb.com;Blk 205, Woodlands Ave 9 #03-54, Woodlands Spectrum II;738957;Singapore;Singapore;Singapore;
+999931;Mecomb Singapore Ltd;4;+6565721200;mecomb@singnet.com.sg;https://www.mecomb.com/;www.abb.com;6 Jurong Pier Road;619158;Singapore;Singapore;Singapore;
+999979;PBA (S) Pte Ltd;4;+6565766766;info@pbagroup.net;www.pba.com.sg;www.abb.com;505, Yishun Industrial Park A;768733;Singapore;Singapore;Singapore;
+1000055;SANKEI EAGLE SINGAPORE PTE. Ltd;4;+6564817535;raymond@sankei-eagle.com.sg;www.sankei-hd.com;www.abb.com;50 Gambas Crescent, #04-02/03/04, Proxima @ Gambas;757022;Singapore;Singapore;Singapore;
+1000303;Beng Hui Marine Electrical Pl;4;+6562914444;;www.bhglobal.com.sg;www.abb.com;No.8 Penjuru Ln;609189;Singapore;Singapore;Singapore;
+1000649;Choo Chiang Marketing Pte Ltd;4;+6563685922;info@choochiang.com;www.choochiang.com;www.abb.com;10 Woodlands Loop;738388;Singapore;Singapore;Singapore;
+1001199;HLC Enterprises Pte Ltd;4;+6568427887;sales@hlc.com.sg;www.hlc.com.sg;www.abb.com;53 Ubi Ave 1 #01-39 Paya Ubi Industrial Park;408934;Singapore;Singapore;Singapore;
+1001242;ITE Electric Systems Co Pte Ltd;4;+6562852233;ite@ite.com.sg;www.ite.com.sg;www.abb.com;132 Joo Seng Road #01-02, Uniplas Building;368358;Singapore;Singapore;Singapore;
+1001257;Joe Li Electrical Industries Pte Ltd;4;+6562933433;lesterlee@joeli.com.sg;;www.abb.com;6 Foch Road;209254;Singapore;Singapore;Singapore;
+1001320;Lian Kok Electrical Pte Ltd;4;+6562986822;sales@liankok.com;www.liankok.com;www.abb.com;681 Race Course Road #01-317;210681;Singapore;Singapore;Singapore;
+1001332;Lim Kim Hai Electric Co (S) Pte Ltd;4;+6564905000;customerservice@limkimhai.com.sg;www.limkimhai.com.sg;www.abb.com;53 Kallang Place, Lim Kim Hai Building;339177;Singapore;Singapore;Singapore;
+1001334;LKH Precicon Pte Ltd;4;+6566729229;felix@precicon.com.sg;https://www.precicon.com.sg;www.abb.com;63 Hillview Avenue #10-21 Lam Soon Industrial Building;669569;Singapore;Singapore;Singapore;
+1002005;SINIC Pte Ltd;4;+6562502437;sales@sinicpl.com;https://www.sinicpl.com;www.abb.com;1004 Toa Payoh Industrial Park #01-1495;319076;Singapore;Singapore;Singapore;
+1002010;SM System Control Pte Ltd;4;+6568532555;sales@smsystem.com.sg;www.smsystemcontrol.com.sg;www.abb.com;2 Woodlands Sector 1 #01-25Woodlands Spectrum 1;738068;Singapore;Singapore;Singapore;

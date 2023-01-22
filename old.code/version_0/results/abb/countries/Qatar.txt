@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999984;PETROCON ECC WLL;4;+97444466333;info@petroconecc.com;www.petroservcc.com;www.abb.com;NBK Building (E Block),First Floor, Al Waab City, Salwa Road;---;Doha;Qatar;Qatar;

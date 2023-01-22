@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999745;Electro Care, Kobenhavn ApS;4;+4538346010;kbh@electrocare.dk;www.electrocare.dk;www.abb.com;Generatorvej 8A;2860;Soborg;Region Hovedstaden;Denmark;
+999754;Elektroservice.Dk Aps;4;;;www.elektroservice.dk;www.abb.com;H E Bluhmes Vej 7;6700;Esbjerg;Region Syddanmark;Denmark;

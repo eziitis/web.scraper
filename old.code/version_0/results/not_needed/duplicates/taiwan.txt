@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1021481;台安自動化有限公司;4;00886424753637;taian.mail@taian-motion.com.tw;www.taian-motion.com.tw/;www.se.com;西區精誠三十街34號;403;台中市;;Taiwan;
+1021484;台灣智控有限公司;4;886226864868;;;www.se.com;中山路一段217號10樓之10;238;新北市樹林區;;Taiwan;
+1021500;捷電開發科技股份有限公司;4;886222806939;;;www.se.com;溪尾街14號3樓之8;241;新北市三重區;;Taiwan;
+1021510;星泰國際科技股份有限公司;4;886229995503;;www.taiwan-servo.com.tw;www.se.com;重新路五段609巷16號9樓之5;241;新北市三重區;;Taiwan;
+1021525;磐華系統科技股份有限公司;4;886222262958;panhua.st@msa.hinet.net;https://panhua.webnode.tw/;www.se.com;樹林區保安街二段2之3號7樓;238/235;新北市;;Taiwan;

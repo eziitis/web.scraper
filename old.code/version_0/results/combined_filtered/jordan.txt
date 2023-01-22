@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999670;Billeh Electrical Materials Co;4;+96264656987;bemco@billehelectric.com;billehelectric.com;www.abb.com;169 Salah al-Deen St Jabal Al-Hussein;11131;Amman;Amman;jordan;
+1000148;Volt Automation LLC;4;+962775330001;info@va.jo;www.va.jo;www.abb.com;80 Amir Ben Malek St;11821;Khalda;Amman;jordan;
+1001209;Ideal Control Systems Co. LLC;4;+96265538640;ideal@ideal-control.com;www.ideal-control.com;www.abb.com;Wasfi Al-Tal street - Building 111 Al Bakri Complex;---;Amman;Amman;jordan;

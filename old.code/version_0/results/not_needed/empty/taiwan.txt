@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1021492;巨勳科技股份有限公司;4;;;;www.se.com;台北市中山區復興北路290號4F之3;104;台北市;;Taiwan;
+1021517;永錄自動化股份有限公司;4;;;;www.se.com;敦化南路2段267號9樓之4;106;台北市大安區;;Taiwan;
+1021526;禾恩有限公司;4;;;;www.se.com;青埔里青峰路一段43號6樓;320;桃園市中壢區;;Taiwan;

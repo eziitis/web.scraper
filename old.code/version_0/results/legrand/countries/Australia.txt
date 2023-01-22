@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002624;LEGRAND AUSTRALIE;4;+61 2 8783 4333;;www.legrand.com.au;www.legrand.com;Nexus Industry Park, Building 4, 43-47 Lyn Parade;;NSW 2170 Prestons;;Australia;

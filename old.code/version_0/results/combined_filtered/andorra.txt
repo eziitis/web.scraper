@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1001121;General Electrica Andorrana, S.A;4;+376721201;gea@gea.ad;www.gea.ad;www.abb.com;C. de les Costes 10.;AD500;Andorra La Vella;Andorra;andorra;

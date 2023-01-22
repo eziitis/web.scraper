@@ -1,0 +1,13 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1019766;ARB Electrical W/S - Durban (HO);4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;10 Mack Road, Prospecton;4115;Durban;KwaZulu-Natal;South Africa;
+1019778;ARB Electrical W/S - Durban North;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;1461 Chris Hani Road, Durban North;4001;Durban;KwaZulu-Natal;South Africa;
+1019789;ARB Electrical W/S - East London;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za;www.se.com;27 Rayon Road, West Bank;4115;East London;Eastern Cape;South Africa;
+1019800;ARB Electrical W/S - Gezina;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;600 Fredericka Street, Gezina;0084;Pretoria;Gauteng;South Africa;
+1019811;ARB Electrical W/S - Kathu;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;Stand 4344, Kameeldoring Street, Business Premises;8446;Kathu;Northern Cape;South Africa;
+1019822;ARB Electrical W/S - Nelspruit;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;15 Waterfall Avenue, Riverside Park;1200;Nelspruit;Mpumalanga;South Africa;
+1019833;ARB Electrical W/S - PMB;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;307 Boom Street;3200;Pietermaritzburg;KwaZulu-Natal;South Africa;
+1019844;ARB Electrical W/S - Polokwane;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;Daniel Close, Magna Via;0713;Polokwane;Limpopo;South Africa;
+1019855;ARB Electrical W/S - Port Elizabeth;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za;www.se.com;Kempston Road, North End;6110;Port Elizabeth;Eastern Cape;South Africa;
+1019866;ARB Electrical W/S - Pretoria East;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;191 Corobay Ave, Waterkloof Glen Exit 2, Pretoria East;0001;Pretoria;Gauteng;South Africa;
+1019877;ARB Electrical W/S - Pretoria North;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;745 President Steyn Street, Pretoria North;0182;Pretoria;;South Africa;
+1019889;ARB Electrical W/S - Richards Bay;4;+27(0)861272835;info@arb.co.za;https://www.arb.co.za/;www.se.com;63 Dollar Drive;3900;Richards Bay;KwaZulu-Natal;South Africa;

@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999641;AutomatiX SAL;4;+96176536313;imad.maalouf@automatix.com;www.automatix.com;www.abb.com;Seaside Road, KASLIK 793, First Floor, Zouk Mikael;90-2093;Beirut;Lebanon;Lebanon;
+1000123;Technica International;4;+9614982224;tony.haddad@technicaintl.com;www.technicaintl.com;www.abb.com;BICKFAYA INDUSTRIAL PARK;163;Bikfaya;Lebanon;Lebanon;
+1001188;Harb Electric S.A.L;4;+9611841844;hussein.harb@harbelectric.com;www.harbelectric.com;www.abb.com;Harb Building, Facing Golf Club of Lebanon, Bir Hassan Area;5101;Beirut;Lebanon;Lebanon;
+1001462;PAC Power & Automation Control;4;+9611854286;purchasing@paclb.com;www.paclb.com;www.abb.com;Golf Club Street Harb Bldg, Golf Club Street, Bir Hassan, P.O Box 15-5101- Beirut;115101;Beirut;Lebanon;Lebanon;

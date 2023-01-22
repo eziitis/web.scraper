@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002596;74943 Annecy-le-Vieux CEDEX;4;;;;www.legrand.com;Tel : +33 04 50 64 05 13;;Fax : +33 04 50 64 04 37;;Web: www.alpestechnologies.com;

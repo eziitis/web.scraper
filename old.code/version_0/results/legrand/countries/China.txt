@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002581;TCL LEGRAND HUIZHOU;4;+86 752 2529999;;www.legrand.com.cn;www.legrand.com;Factory Bldg. B1-B3, No 39. East Hechang No.6 Road, Zhongkai Hi-tech industrial Development Park,;;Huizhou Guangdong;;China;
+1002582;TCL-LEGRAND LOW VOLTAGE WUXI CABLOFIL;4;+86-510-6875 8888 / Hotline：4008-806-050;;www.cablofil.cn;www.legrand.com;88 Xi Mei Road, Wuxi district;;Jiangsu;;China;
+1002583;SHIDEAN LEGRAND;4;+86-755-2691 7888 / Hotline： 400-900-2398;;www.legrand.com.cn;www.legrand.com;Haisheng Business Center, 4096 Dongbin Road, Nanshan District,;;Shenzhen;;China;

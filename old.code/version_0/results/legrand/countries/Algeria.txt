@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002555;Legrand Electric Algérie;4;+213 (0) 23 23 04 12 / 13;;www.legrand.dz;www.legrand.com;Haut Site d'Hydra - Lotissement Boursas, Porte numéro 15;;16035 Hydra - Alger;;Algeria;

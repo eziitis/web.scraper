@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002610;Legrand Electrica;4;+351 214 548 800;;www.legrand.pt;www.legrand.com;Legrand Electrica S.A. - Estrada da Alagoa, 96;;2775-716 Carcavelos;;Portugal;

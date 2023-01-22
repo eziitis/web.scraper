@@ -1,0 +1,6 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000171;ESB Service Group OU;4;;info@esb.com.ee;www.esb.com.ee;www.abb.com;Parnu maantee 142;11317;Tallinn;Harju;Estonia;
+1001159;Legrand;4;;office.tallinn@legrandelectric.com;;www.legrand.com;Pärnu mnt 463 10614 Tallinn Estonie;;;;estonia;
+1004127;ALMIC OÜ;4;+3726461078;mihkel@almic.ee;www.almic.ee;www.se.com;Järvevana tee 9f;11314;Tallinn;;estonia;
+1004128;ProfiNET OÜ;4;37258661929;jaan@profinet.ee;www.profinet.ee;www.se.com;Kivikangru 20;76506;Saue;;estonia;
+1004129;TSL OÜ;4;568-0222-8;info@tsl.ee;;www.se.com;Põllu 132;10917;Tallinn;;estonia;

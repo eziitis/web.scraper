@@ -1,0 +1,15 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999572;Accutech Middle East FZCO;4;+97143207944;sales@accutech.ae;www.accutech.ae;www.abb.com;G-Warehouse-1, Highbay, Silicon Oasis;30495;Dubai;Dubai;United Arab Emirates;
+999589;Al Zubair General Trading LLC;4;+97143362532;zubairdxb@zubairdxb.com;www.zubaircorp.com;www.abb.com;Karama Area, Dubai Printing Press Building;---;Dubai;Dubai;United Arab Emirates;
+999671;Bin Ghalib Engineering Trading;4;+97142073777;beetrdng@eim.ae;www.binghalibtrading.com;www.abb.com;Al Qusais Industrial Area 4;14743;Dubai;Dubai;United Arab Emirates;
+999864;Intech Process Automation FZCO;4;;;www.intechww.com;www.abb.com;Warehouse No. WT01FD06, Jebel Ali Free Zone;---;Dubai;Dubai;United Arab Emirates;
+999959;Nextreme Techno Solutions FZCO;4;+971528262260;info@nextremetech.com;www.nextremetech.com;www.abb.com;Unit 101, DDP, Building A2, Dubai Silicon Oasis;96514;Dubai;Dubai;United Arab Emirates;
+1000130;TRIELECTRIC INTERNATIONAL - F.Z.E;4;;energysaving@motorsandgenerators.com;www.trielectricinternational.com;www.abb.com;Warehouse, G1-40, Ajman Free Zon;297731;Ajman;Ajman;United Arab Emirates;
+1000193;Al Khoory International;4;+97143478005;aikah@emirates.net.ae;https://aikah.com/;www.abb.com;Plot No MO0657, Daimler Chrysler Street;0000;Jebel Ali, Dubai;Dubai;United Arab Emirates;
+1000326;BUILTECH TRADING LLC;4;+97144308620;mail@builtech.ae;www.builtech.ae;www.abb.com;RUS -W07, International City;47793;Dubai;Dubai;United Arab Emirates;
+1000953;ELECTRIC WAY FZCO;4;+97148170777;sales@electricway.com;https://electricway.com;www.abb.com;Plot No. TP010421, National Industries Park Jebel Ali;87512;Dubai;Dubai;United Arab Emirates;
+1001212;Illumination Center Importing & Trading (Servaumatic);4;+97126329800;yehya@illuminationcentre.ae;NoWebSiteAvbl;www.abb.com;Mezzanine Floor, Eidda Butti Buildi;2421;Abu Dhabi;Abu Dhabi;United Arab Emirates;
+1001410;Mohd. Abdulla Haji Yousuf Khoory & Co. LLC;4;+97146067300;saleselect@mahykhoory.com;mahykhoory.com/;www.abb.com;Salahuddin Rd, Next To Galadari Emarat Petrol Station, Near Abu Hail Metro Station;;Dubai;Dubai;United Arab Emirates;
+1001489;Prakash Trading Co;4;+97142863363;ptc@eim.ae;www.ptc.ae;www.abb.com;Al Ramoul Rashidya, Near Arabian Packaging;---;Dubai;Dubai;United Arab Emirates;
+1001802;Rexel Emirates;4;+97144528900;;www.rexel.me;www.abb.com;NBK Building, Airport Road| Abu Dhabi;;Abu Dhabi;Abu Dhabi;United Arab Emirates;
+1001994;Sentor Electrical Trading LLC;4;+97144210335;dubai@sentorelectrical.com;www.sentorelectrical.com;www.abb.com;Unit 1506 1509 International Business Tower Business Bay;9627;Dubai;Dubai;United Arab Emirates;

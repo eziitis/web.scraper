@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999819;Grupo en Soluciones de Ingenieria y Automatizacion, S.A.;4;+50244206612;cpinto@gruposiasagt.com;www.gruposiasagt.com;www.abb.com;17 Ave. 5/61 Zona 15 V.H 1;0000;Ciudad de Guatemala;Guatemala;Guatemala;
+1001176;Grupo Siasa;4;+50222189393;info@gruposervielectric.com;www.gruposiasagt.com;www.abb.com;18 AV. A 0-17 Z-15 VH II;01001;Ciudad de Guatemala;Guatemala;Guatemala;

@@ -1,0 +1,8 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002617;CP Electronics;4;+44 333 900 0671;;www.cpelectronics.co.uk;www.legrand.com;Brent Crescent;;NW10 7XR London;;United Kingdom;
+1002618;Electrak;4;+44 1207 503 400;;www.electrak.co.uk;www.legrand.com;N° 1 Industrial Estate - Medomsley Road;;DH8 6SR Consett - County Durham;;United Kingdom;
+1002619;Jontek;4;+44 161 430 3366;;www.jontek.co.uk;www.legrand.com;Arden Business Centre - Horsfield Way, Bredbury,;;Stockport SK6 2SU;;United Kingdom;
+1002620;Minkels;4;+44 1494 451706;info-uk@minkels.com;www.minkels.com;www.legrand.com;Unit 4 - Blenheim Road - M40 Industrial Centre - High Wycombe;;Bucks, HP12 3RS;;United Kingdom;
+1002621;Ortronics;4;+ 44 121 515 0669;info.ortronics-uk@ortronics.co.uk;;www.legrand.com;UNITED KINGDOM & IRELAND - Great King Street North;;Birmingham B19 2LF;;United Kingdom;
+1002622;Tynetec;4;+44 (0) 1670 352371;;www.tynetec.co.uk;www.legrand.com;Cowley Road - Blyth Riverside Business Park;;NE24 5TF Blyth - Northumberland;;United Kingdom;
+1002623;Zucchini;4;+44 121 458 7070;;www.zucchini.uk.com;www.legrand.com;Dial Lane - West Bromwich - West Midlands;;B70 0EB;;United Kingdom;

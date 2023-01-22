@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002616;Legrand Scandinavia A/S;4;+45 36 34 05 90;info.scandinavia@legrandgroup.com;www.legrand.se;www.legrand.com;Avedøreholmen 48;;2650 Hvidovre;;Denmark;

@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1001357;MAN-DRA d.o.o. el;4;+38970350828;contact@man-dra.mk;www.man-dra.mk;www.abb.com;Ul. Negotinksa br. 36;1000;Skopje;Macedonia;Republic of North Macedonia;
+1002230;TD Lamar DN D.O.O.;4;+38970273142;dejan.simovic@lamar-dn.mk;www.lamar-dn.mk;www.abb.com;ul.1611 br.32/3;1000;Skopje;Macedonia;Republic of North Macedonia;

@@ -1,0 +1,14 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1003538;INTELECTRIC  S.A.C.;4;;;;www.se.com;JR. VENUS NRO. 1176 URB. LA LUZ (EN;LIMA  01;CERCADO, LIMA;Lima y Callao;Peru;
+1003603;PC Profesional EIRL;4;;;;www.se.com;Calle Espinar 260 Torre 4 departamento 201;15087;Lima;Lima y Callao;Peru;
+1003633;representaciones faroa sac;4;;;;www.se.com;calle carlos alaiza y roel 2131;51;lima;Lima y Callao;Peru;
+1003644;SGTecnicom;4;;;www.sgtecnicom.pe;www.se.com;Av. Marical La Mar 758 Urb. Santa Cruz Miraflores Lima;51;Lima;;Peru;
+1003645;SI-DEPRO;4;;;;www.se.com;Lima - Peru;051;Lima;Lima y Callao;Peru;
+1003694;T &  G informatica sac. com;4;;;;www.se.com;Av. Paseo de la República 4162, Oficina 301, Miraflores;01;Lima;Lima y Callao;Peru;
+1003701;TOPSALE S.A.C;4;;;;www.se.com;Calle Los Halcones 242 - San Isidro;Lima 27;Lima;Lima y Callao;Peru;
+1003728;Dockit Soluciones Tecnologicas SAC;4;;;;www.se.com;San Martín de Porres;+51;Lima;Lima y Callao;Peru;
+1003738;Egrel Peru S.A.C.;4;;;www.egrel.com;www.se.com;Av. Manuel Cipriano Dulanto N° 1045;Lima 21;Pueblo Libre;Lima y Callao;Peru;
+1003739;electro centro paruro sac;4;;;;www.se.com;jr paruro 1349 int 25;01;lima;Lima y Callao;Peru;
+1003743;EMPRESA MAIN SERVER PERU EIRL;4;;;;www.se.com;Av. Circunvalación Arenales 195;19001;Cerro De Pasco;Pasco;Peru;
+1003747;ENGIE SERVICES PERU S.A.;4;;;www.engie-energia.pe;www.se.com;Av. Alfredo Benavides 768Oficina 1303Miraflores;15074;Lima;Lima y Callao;Peru;
+1003772;Grupo Palermo;4;;;www.grupopalermo.pe;www.se.com;Av Nicolás de Pierola 1207, Urb. Santa Ines, Trujillo, La Libertad, Peru;13011;Trujillo;;Peru;

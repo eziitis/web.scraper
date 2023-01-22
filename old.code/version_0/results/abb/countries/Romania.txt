@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999749;Electrosoft S.r.l.;4;0371.07.48.44;;www.electrosoftgrup.ro;www.abb.com;Bd. Timisoara 104E Sector 6;061334;Bucuresti;Bucuresti;Romania;
+999794;Flowrond Med S.r.l.;4;+40729390651;remus.bentan@flowrond.ro;www.flowrond.ro;www.abb.com;Milcov Nr. 3 Bl. 3 Sc. A Et. 2 Ap. 9;551118;Medias;Sibiu;Romania;
+999846;Imatec Impex S.r.l.;4;+40314363761;office@imatec.ro;imatec.ro/new/;www.abb.com;Aleea Tineretului Nr. 684;107050;Banesti;Prahova;Romania;

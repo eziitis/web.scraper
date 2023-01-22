@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1010998;Β. ΚΑΥΚΑΣ Α.Ε.;4;2241075210;rodos@kafkas.gr;www.kafkas.gr;www.se.com;Λεωφ. Ρόδου - Καλλιθέας 5;85100;ΡΟΔΟΣ;;Greece;
+1011018;ΖΑΧΑΡΟΠΟΥΛΟΣ Δ & Μ & ΣΙΑ Ο.Ε;4;2310686126;;;www.se.com;Ιωνίας, Καλοχωρί 1082;56424;Καλοχώρι;;Greece;

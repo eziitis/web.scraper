@@ -1,0 +1,9 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1011712;PT. TECH DATA ADVANCE SOLUTIONS INDONESIA;4;;;;www.se.com;Jl. Abdul Muis No.40;0;Jakarta;Jakarta Raya;Indonesia;
+1011727;CV LANCAR SEJATI;4;;;;www.se.com;Jln. Yos Sudarso 14/8-10, Timika;99910;Timika;Papua Barat;Indonesia;
+1011752;CV MITRA MANDIRI ELEKTRIK;4;;;;www.se.com;Kawasan Industri Candi 23 A,No.3, Ngaliyan;;Semarang;Jawa Tengah;Indonesia;
+1011753;CV MITRA SARANA TEKNIK;4;;;;www.se.com;Jl. KH Yoenus Sanis No. 54, RT23 Kai Kebun Handil;36137;Jambi;;Indonesia;
+1011763;ECS Raya Indonesia, PT.;4;;;;www.se.com;Jl. Pinangsia III No. 21;11110;Jakarta;;Indonesia;
+1011809;PT Made Maju Mandiri;4;;;;www.se.com;;80239;Denpasar;;Indonesia;
+1011813;PT MEGA CAHAYA JEMBERINDO;4;;;;www.se.com;Jl. Wolter Mongisidi N0.888 B;68175;Jembe;Jawa Timur;Indonesia;
+1011832;PT SUMBER REJEKI SUKSES SANTOSO;4;;;;www.se.com;Jl. Widoharjo No.66-68, RT.007 RW.004;;Semarang;Jawa Tengah;Indonesia;

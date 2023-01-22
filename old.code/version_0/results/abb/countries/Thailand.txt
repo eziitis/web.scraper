@@ -1,0 +1,12 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999704;Contrologic Co Ltd;4;;;www.contrologic.co.th;www.abb.com;No. 101 Motorway Frontage Road, Khlongsongtonnun,Ladkrabang;10520;Bangkok;Bangkok;Thailand;
+999817;Greater Tech Engineering Co Ltd;4;+6621590254;gte@greater-tech.com;www.greater-tech.com;www.abb.com;1/99 Moo 3, Klongsong;12120;Klong Luang;Pathum Thani;Thailand;
+999975;P.M.K. Corporation Ltd;4;+6629039999;pmkgroup@co.th;www.pmk.co.th;www.abb.com;99 Moo 8 Soi Wat Pra Ngern, Kanchanaphisek Road, Bangmuang, BangYai;11140;Nonthaburi;Nonthaburi;Thailand;
+1000002;Professional Service United Co Ltd;4;+6624615764;sales@psu.co.th;www.psu.co.th;www.abb.com;465 Moo 3, Bangrongsuan, Prasamudjadee;10290;Samutprakarn;Samut Prakan;Thailand;
+1000114;T.G. Control Co Ltd;4;;sales@tgcontrol.com;www.tgcontrol.com;www.abb.com;1683 Town in Town Soi 9, Srivara Rd., Phlapphla;10310;Wang Thong Lang;Bangkok;Thailand;
+1000267;Athens Electrical Products Co Ltd;4;+6623691818 ;info@athensthailand.com;www.athensthailand.com;www.abb.com;789/5-6 Rama 9 Rd., Soi 21 Bangkapi;10310;Huai Khwang;Bangkok;Thailand;
+1000292;Bangkok Absolute Electric And Con Co Ltd;4;+6623983389;bangkokabsolute@gmail.com;www.bangkokab.com;www.abb.com;33-35 Bang Na - Trat 12 Bang Na - Trat Road Bangna;10260;Bangkok;Bangkok;Thailand;
+1001472;PIS Power Distribution Co Ltd;4;+6621053011;sales@pispd.com;www.pispd.com;www.abb.com;877/36 Rama 9 Rd., Suanluang;10250;Suan Luang;Bangkok;Thailand;
+1001473;Piti Distribution System Co Ltd;4;+6627302600;pds@pitigroup.com;https://pitigroup.com;www.abb.com;380/1 Sukhumvit Road, Paknam, Muang;10270;Samut Prakan;Samut Prakan;Thailand;
+1001986;SCI Electric Public Co Ltd;4;+6623381414;service@sci-mfgr.com;www.sci-mfgr.com;www.abb.com;No. 107/1 Moo1 Bangna-Trad Km. 27 Road, T. Bangpleang, A. Bangbor;10560;Samutprakarn;Bangkok;Thailand;
+1002294;W.N.J. Rungroj Electric Co Ltd;4;+6622157666;sales@wnj.co.th;www.wnj.co.th;www.abb.com;50/3-4, Floor 1st-2nd, Rama 1 Road, Rong Muang;10330;Pathum Wan;Bangkok;Thailand;

@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000889;E Control Sales cc;4;0026461254081;sales1@econtrol.com.na;www.e-sales.com.na;www.abb.com;114 Silver Street Prosperia;---;Windhoek;Khomas;namibia;

@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1001518;Reverie Power And Automation Engineering Ltd;4;;;www.reverie-bd.com;www.abb.com;Narsinghachar, Noakanda,Gozaria, Pa;1610;Narsingdi;Dhaka;Bangladesh;

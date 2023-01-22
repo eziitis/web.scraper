@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1002591;Legrand;4;+375 17 285 71 01;bureau.minsk@legrandelectric.com;;www.legrand.com;28A, Surganova Str.,;;220112 Minsk;;Belarus;

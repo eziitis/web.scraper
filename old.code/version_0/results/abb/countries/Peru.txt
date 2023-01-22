@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999876;Invesux S.r.l.;4;+51(1)719-7760;ventas@invesux.pe;www.invesux.pe;www.abb.com;MZA. E LOTE. 24 APV. EL PARAISO;15109;Los Olivos;Lima;Peru;

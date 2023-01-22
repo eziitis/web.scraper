@@ -1,0 +1,3 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1000009;Qualitech Machining Services Ltd;4;+18686360209;info@qmstt.com;www.qmstt.com;www.abb.com;Amazon Drive, Point Lisas Industrial Estate;---;Point Lisas;Trinidad and Tobago;Trinidad and Tobago;
+1000956;Electrical Industries Group Ltd;4;+8682353445;;www.electricalindustriesgroup.com;www.abb.com;#1 Century Drive, Trincity Industrial Estate, Macoya;;Tunapuna;Trinidad and Tobago;Trinidad and Tobago;

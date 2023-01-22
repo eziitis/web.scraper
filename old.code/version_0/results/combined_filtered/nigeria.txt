@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1014286;Mikano International Limited;4;;psd@mikano-intl.com;;www.se.com;PLOT 34 ACME ROAD,OGBA / IKEJA,LAGOS;NG;LAGOS;Lagos;Nigeria;
+1014290;OKELCO GLOBAL RESOURCES LIMITED;4;09077522153;info@okelcoglobal.com;okelcoglobal.com/;www.se.com;23B Old Aba Road;500211;Port Harcourt;Rivers;Nigeria;
+1014304;WESTGATE TECHNOLOGIES LTD;4;7034179301;victor@westgate.com.ng;;www.se.com;32 OBA-AKRAN AVENUE IKEJA LAGOS;234;LAGOS;Lagos;Nigeria;
+1014310;GEOSCAPE LIMITED;4;;admin@geoscapeltd.com;;www.se.com;49B, Norman Williams Street,¶South West, Ikoyi, Lagos.;NG;Lagos;;Nigeria;

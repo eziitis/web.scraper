@@ -1,0 +1,5 @@
+999698;Cong ty Co Phan Cong Nghe va Giai Phap S5T Viet Nam;4;;;www.s5t.com.vn;www.abb.com;Phong 404 B4, tap the Thanh Xuan Bac, Phuong Thanh Xuan Bac;109990;Hanoi;Ha Noi;viet nam;
+999910;Le Gia High Technology JSC;4;;;www.levn.vn;www.abb.com;90/2 Phan Huy Ich Street, Ward 14, Go Vap District;700000;Ho Chi Minh City;TP. Ho Chi Minh;viet nam;
+1000052;Sai Gon Ban Mai Commercial Co Ltd;4;;;saigonbanmai.com.vn;www.abb.com;P2502 101 Lang Ha Dong Da;100000;Hanoi;Ha Noi;viet nam;
+1000091;Song Nhat Service Trading Co Ltd;4;;;songnhat.com.vn;www.abb.com;No. 80, Street 1, Cityland (Park Hill), Ward 10, Go Vap District;700000;Ho Chi Minh;TP. Ho Chi Minh;viet nam;
+1000146;Vinh Thanh Lead Away Equipment Co Ltd;4;;;www.vtmc.com.vn;www.abb.com;45 Tan Hoa Hamlet, Tan Hiep Village, Hoc Mon District;700000;Ho Chi Minh City;TP. Ho Chi Minh;viet nam;

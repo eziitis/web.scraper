@@ -1,0 +1,4 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999630;Atelier Belge De La Manutention;4;+3271858500;commercial@abmsa.be;www.abm-tecna.be;www.abb.com;PAE Martinrou Rue des Sources, 5;6220;Fleurus;Henegouwen;Belgium;
+999727;Duvivier - Dexis;4;+3250317122;sales@duvivier-bvba.be;www.duvivier-dexis.be;www.abb.com;Gotevlietstraat 10;8000;Brugge;Brabant;Belgium;
+1001460;P&I Bvba;4;+3292354010;;www.panelsandfloors.be;www.abb.com;Honderdweg 12;9230;Wetteren;Oost-Vlaanderen;Belgium;

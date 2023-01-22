@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1011169;SNT Consulting Hungary Kft.;4;3613718000;balazs.gemes@snt.hu;www.snt.hu;www.se.com;Puskás Tivadar út 14.;2040;Budaörs;Pest;Hungary;

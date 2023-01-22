@@ -1,0 +1,5 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999733;East Engineering And Services Technology;4;+20225193383;info@etg-eg.com;www.etg-eg.com;www.abb.com;30 St. 276 New Maadi;11435;Cairo;Cairo;egypt;
+999927;Marses for Robotic Solutions;4;+2(0122)591-9060;aladdin.alhowainy@marses.systems;www.marses.systems;www.abb.com;18 Ashmon St., Heliopolis, Cairo;11341;Heliopolis;Cairo;egypt;
+1000010;Quasi Systems Energy & Control Solutions;4;+201225267111;;www.quasi-systems.com;www.abb.com;4st, El-Hady off Rashed st, Ahmed Oraby - El Mohandessin;;cairo;Giza;egypt;
+1001399;Miratech;4;;ashraf@miratechfire.com;www.miratechfire.com;www.abb.com;52, Mostafa Elnahas St., App 101;;Nasr city;Cairo;egypt;

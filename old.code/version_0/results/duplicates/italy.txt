@@ -1,0 +1,12 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+1012017;COMOLI FERRARI & C. SPA;4;010-8355466;;;www.se.com;VIA DI FRANCIA 81/R;16149;GENOVA SAMPIERDARENA;Genova;Italy;
+1012050;COMOLI FERRARI & C. SPA;4;010-8355466;;;www.se.com;VIA G. ADAMOLI 31;16138;GENOVA;Genova;Italy;
+1012075;COMOLI FERRARI & C. SPA;4;010-8355466;;;www.se.com;VIA ARGINE DESTRO 561;18100;IMPERIA;;Italy;
+1012164;EDIF SPA;4;080-5361911;adargento@gruppoedif.it;;www.se.com;VIA DELLE VIOLETTE 4/6;70026;MODUGNO;Bari;Italy;
+1012310;FINPOLO SPA;4;0372-454181;;;www.se.com;VIA BRESCIA 24;26100;CREMONA;Cremona;Italy;
+1012403;LUCCIOLA SRL;4;075-8081311;;;www.se.com;VIA VITTORIO VENETO 2;06023;GUALDO TADINO;Perugia;Italy;
+1012472;MEB SRL;4;0461-432333;;;www.se.com;VIA DEL GARDA PARTICELLA 902/6PM5;38068;ROVERETO;Trento;Italy;
+1012512;NORD ELETTRICA SRL;4;0226142665;;;www.se.com;VIA GIUBA 18;20132;MILANO;Milano;Italy;
+1012702;SONEPAR ITALIA SPA;4;049-8292111;;;www.se.com;S.S. PONTEBBANA Z.I. 44/A;33080;FIUME VENETO;Pordenone;Italy;
+1001842;REXEL ITALIA S.p.A.;4;+390523593240;rexel@rexel.it;www.rexel.it;www.abb.com;Via Copernico 77;47122;Forli;Forli' Cesena;italy;
+1001852;Rexel Italia S.p.A.;4;+390541604534;rexel@rexel.it;www.rexel.it;www.abb.com;Via San Leo, 2;47836;Riccione;Rimini;italy;

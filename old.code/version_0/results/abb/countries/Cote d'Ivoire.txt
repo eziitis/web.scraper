@@ -1,0 +1,2 @@
+Customer number;Customer name;Customer type;Number;E-mail;Address;Remark;Address row 1;Zip code;City/Province;State/Region;Country;
+999665;Bernabe Cote D'ivoire;4;+22521352092;info.ci@bernabeafrique.com;www.bernabealliance.com;www.abb.com;Boulevard De Marseille No.99;01;Abidjan;Abidjan;Cote d'Ivoire;
